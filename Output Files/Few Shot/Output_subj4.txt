@@ -1,0 +1,498 @@
+DEVICE = cuda
+Epoch 1: 	validation acc: 33.03571	validation loss: 1.486321	train loss: 1.295158
+Epoch 2: 	validation acc: 39.50893	validation loss: 1.524253	train loss: 1.204987
+Epoch 3: 	validation acc: 44.86607	validation loss: 1.449239	train loss: 1.150085
+Epoch 4: 	validation acc: 43.86161	validation loss: 1.496335	train loss: 1.101180
+Epoch 5: 	validation acc: 44.19643	validation loss: 1.456385	train loss: 1.077794
+Epoch 6: 	validation acc: 46.31696	validation loss: 1.414472	train loss: 1.049697
+Epoch 7: 	validation acc: 46.09375	validation loss: 1.490676	train loss: 1.045760
+Epoch 8: 	validation acc: 45.75893	validation loss: 1.535703	train loss: 1.019665
+Epoch 9: 	validation acc: 49.55357	validation loss: 1.420642	train loss: 1.022719
+Epoch 10: 	validation acc: 48.43750	validation loss: 1.478240	train loss: 1.002612
+Epoch 11: 	validation acc: 46.87500	validation loss: 1.479330	train loss: 0.984434
+Epoch 12: 	validation acc: 46.87500	validation loss: 1.516525	train loss: 0.984230
+Epoch 13: 	validation acc: 47.65625	validation loss: 1.467175	train loss: 0.969722
+Epoch 14: 	validation acc: 47.87946	validation loss: 1.458910	train loss: 0.975211
+Epoch 15: 	validation acc: 49.44196	validation loss: 1.475435	train loss: 0.943989
+Epoch 16: 	validation acc: 49.88839	validation loss: 1.438389	train loss: 0.957669
+Epoch 17: 	validation acc: 49.55357	validation loss: 1.448353	train loss: 0.929318
+Epoch 18: 	validation acc: 50.44643	validation loss: 1.413921	train loss: 0.924765
+Epoch 19: 	validation acc: 51.89732	validation loss: 1.449963	train loss: 0.918237
+Epoch 20: 	validation acc: 51.78571	validation loss: 1.475954	train loss: 0.910356
+Epoch 21: 	validation acc: 50.00000	validation loss: 1.481338	train loss: 0.911095
+Epoch 22: 	validation acc: 51.89732	validation loss: 1.446889	train loss: 0.909293
+Epoch 23: 	validation acc: 52.45536	validation loss: 1.437728	train loss: 0.897894
+Epoch 24: 	validation acc: 52.34375	validation loss: 1.418206	train loss: 0.876406
+Epoch 25: 	validation acc: 51.67411	validation loss: 1.431869	train loss: 0.887188
+Epoch 26: 	validation acc: 52.45536	validation loss: 1.452155	train loss: 0.880390
+Epoch 27: 	validation acc: 52.90179	validation loss: 1.440531	train loss: 0.882614
+Epoch 28: 	validation acc: 53.68304	validation loss: 1.418350	train loss: 0.864327
+Epoch 29: 	validation acc: 53.01339	validation loss: 1.456703	train loss: 0.866093
+Epoch 30: 	validation acc: 51.78571	validation loss: 1.468324	train loss: 0.854548
+Epoch 31: 	validation acc: 53.79464	validation loss: 1.400811	train loss: 0.858371
+Epoch 32: 	validation acc: 51.56250	validation loss: 1.476921	train loss: 0.856274
+Epoch 33: 	validation acc: 51.78571	validation loss: 1.489155	train loss: 0.850277
+Epoch 34: 	validation acc: 53.12500	validation loss: 1.473791	train loss: 0.845787
+Epoch 35: 	validation acc: 52.56696	validation loss: 1.491786	train loss: 0.832587
+Epoch 36: 	validation acc: 52.12054	validation loss: 1.448928	train loss: 0.826927
+Epoch 37: 	validation acc: 54.01786	validation loss: 1.424732	train loss: 0.837768
+Epoch 38: 	validation acc: 54.57589	validation loss: 1.441797	train loss: 0.825365
+Epoch 39: 	validation acc: 52.56696	validation loss: 1.408008	train loss: 0.829745
+Epoch 40: 	validation acc: 54.68750	validation loss: 1.424271	train loss: 0.831336
+Epoch 41: 	validation acc: 53.90625	validation loss: 1.424084	train loss: 0.818690
+Epoch 42: 	validation acc: 54.46429	validation loss: 1.467884	train loss: 0.828241
+Epoch 43: 	validation acc: 54.57589	validation loss: 1.436567	train loss: 0.809903
+Epoch 44: 	validation acc: 54.91071	validation loss: 1.419229	train loss: 0.824913
+Epoch 45: 	validation acc: 54.35268	validation loss: 1.462152	train loss: 0.806711
+Epoch 46: 	validation acc: 54.46429	validation loss: 1.442004	train loss: 0.810538
+Epoch 47: 	validation acc: 52.90179	validation loss: 1.404520	train loss: 0.782113
+Epoch 48: 	validation acc: 52.45536	validation loss: 1.439492	train loss: 0.800803
+Epoch 49: 	validation acc: 53.90625	validation loss: 1.462988	train loss: 0.812775
+
+Evaluate on train subjects:
+0-shot accuracy on subject 1: 	mean: 74.826389%	std: 9.373392%
+0-shot accuracy on subject 2: 	mean: 52.083333%	std: 12.058163%
+0-shot accuracy on subject 3: 	mean: 78.993056%	std: 9.564381%
+0-shot accuracy on subject 5: 	mean: 48.611111%	std: 10.531771%
+0-shot accuracy on subject 6: 	mean: 55.034722%	std: 11.768477%
+0-shot accuracy on subject 7: 	mean: 71.875000%	std: 12.192396%
+0-shot accuracy on subject 8: 	mean: 75.000000%	std: 10.520318%
+0-shot accuracy on subject 9: 	mean: 78.298611%	std: 12.101828%
+
+Evaluate:
+0-shot accuracy: 	mean: 41.145833%	std: 10.245998%
+1-shot accuracy: 	mean: 43.973214%	std: 16.063676%	after 143 updates
+2-shot accuracy: 	mean: 46.354167%	std: 14.758987%	after 127 updates
+3-shot accuracy: 	mean: 47.500000%	std: 11.422292%	after 25 updates
+4-shot accuracy: 	mean: 49.652778%	std: 12.922079%	after 65 updates
+5-shot accuracy: 	mean: 48.828125%	std: 12.542652%	after 77 updates
+6-shot accuracy: 	mean: 53.125000%	std: 9.072501%	after 149 updates
+7-shot accuracy: 	mean: 52.403846%	std: 11.377077%	after 115 updates
+8-shot accuracy: 	mean: 51.562500%	std: 5.776321%	after 25 updates
+9-shot accuracy: 	mean: 52.840909%	std: 8.579357%	after 115 updates
+10-shot accuracy: 	mean: 59.375000%	std: 12.577882%	after 85 updates
+
+Reptile
+episode: 0	finetune acc: 28.75000		test acc: 37.50000
+episode: 50	finetune acc: 40.00000		test acc: 35.41667
+episode: 100	finetune acc: 53.75000		test acc: 33.33333
+episode: 150	finetune acc: 48.75000		test acc: 43.75000
+episode: 200	finetune acc: 52.50000		test acc: 43.75000
+episode: 250	finetune acc: 41.25000		test acc: 52.08333
+episode: 300	finetune acc: 52.50000		test acc: 35.41667
+episode: 350	finetune acc: 51.25000		test acc: 43.75000
+episode: 400	finetune acc: 40.00000		test acc: 27.08333
+episode: 450	finetune acc: 60.00000		test acc: 39.58333
+episode: 500	finetune acc: 33.75000		test acc: 37.50000
+episode: 550	finetune acc: 60.00000		test acc: 45.83333
+episode: 600	finetune acc: 56.25000		test acc: 50.00000
+episode: 650	finetune acc: 46.25000		test acc: 43.75000
+episode: 700	finetune acc: 61.25000		test acc: 35.41667
+episode: 750	finetune acc: 63.75000		test acc: 43.75000
+episode: 800	finetune acc: 58.75000		test acc: 41.66667
+episode: 850	finetune acc: 67.50000		test acc: 37.50000
+episode: 900	finetune acc: 63.75000		test acc: 43.75000
+episode: 950	finetune acc: 66.25000		test acc: 52.08333
+episode: 1000	finetune acc: 55.00000		test acc: 54.16667
+episode: 1050	finetune acc: 57.50000		test acc: 47.91667
+episode: 1100	finetune acc: 58.75000		test acc: 43.75000
+episode: 1150	finetune acc: 55.00000		test acc: 50.00000
+episode: 1200	finetune acc: 53.75000		test acc: 43.75000
+episode: 1250	finetune acc: 60.00000		test acc: 37.50000
+episode: 1300	finetune acc: 56.25000		test acc: 43.75000
+episode: 1350	finetune acc: 51.25000		test acc: 39.58333
+episode: 1400	finetune acc: 55.00000		test acc: 41.66667
+episode: 1450	finetune acc: 58.75000		test acc: 43.75000
+episode: 1500	finetune acc: 53.75000		test acc: 31.25000
+episode: 1550	finetune acc: 60.00000		test acc: 37.50000
+episode: 1600	finetune acc: 56.25000		test acc: 54.16667
+episode: 1650	finetune acc: 61.25000		test acc: 39.58333
+episode: 1700	finetune acc: 56.25000		test acc: 47.91667
+episode: 1750	finetune acc: 58.75000		test acc: 56.25000
+episode: 1800	finetune acc: 67.50000		test acc: 37.50000
+episode: 1850	finetune acc: 48.75000		test acc: 50.00000
+episode: 1900	finetune acc: 66.25000		test acc: 52.08333
+episode: 1950	finetune acc: 63.75000		test acc: 47.91667
+episode: 2000	finetune acc: 62.50000		test acc: 41.66667
+episode: 2050	finetune acc: 47.50000		test acc: 35.41667
+episode: 2100	finetune acc: 57.50000		test acc: 50.00000
+episode: 2150	finetune acc: 60.00000		test acc: 58.33333
+episode: 2200	finetune acc: 52.50000		test acc: 41.66667
+episode: 2250	finetune acc: 62.50000		test acc: 58.33333
+episode: 2300	finetune acc: 53.75000		test acc: 43.75000
+episode: 2350	finetune acc: 56.25000		test acc: 45.83333
+episode: 2400	finetune acc: 56.25000		test acc: 43.75000
+episode: 2450	finetune acc: 65.00000		test acc: 52.08333
+episode: 2500	finetune acc: 60.00000		test acc: 62.50000
+episode: 2550	finetune acc: 73.75000		test acc: 39.58333
+episode: 2600	finetune acc: 68.75000		test acc: 43.75000
+episode: 2650	finetune acc: 56.25000		test acc: 35.41667
+episode: 2700	finetune acc: 63.75000		test acc: 37.50000
+episode: 2750	finetune acc: 62.50000		test acc: 41.66667
+episode: 2800	finetune acc: 52.50000		test acc: 43.75000
+episode: 2850	finetune acc: 50.00000		test acc: 54.16667
+episode: 2900	finetune acc: 51.25000		test acc: 41.66667
+episode: 2950	finetune acc: 65.00000		test acc: 41.66667
+episode: 3000	finetune acc: 60.00000		test acc: 35.41667
+episode: 3050	finetune acc: 60.00000		test acc: 41.66667
+episode: 3100	finetune acc: 62.50000		test acc: 33.33333
+episode: 3150	finetune acc: 55.00000		test acc: 41.66667
+episode: 3200	finetune acc: 70.00000		test acc: 47.91667
+episode: 3250	finetune acc: 68.75000		test acc: 39.58333
+episode: 3300	finetune acc: 66.25000		test acc: 58.33333
+episode: 3350	finetune acc: 73.75000		test acc: 50.00000
+episode: 3400	finetune acc: 62.50000		test acc: 47.91667
+episode: 3450	finetune acc: 62.50000		test acc: 41.66667
+episode: 3500	finetune acc: 61.25000		test acc: 52.08333
+episode: 3550	finetune acc: 68.75000		test acc: 45.83333
+episode: 3600	finetune acc: 61.25000		test acc: 41.66667
+episode: 3650	finetune acc: 63.75000		test acc: 41.66667
+episode: 3700	finetune acc: 73.75000		test acc: 50.00000
+episode: 3750	finetune acc: 70.00000		test acc: 39.58333
+episode: 3800	finetune acc: 58.75000		test acc: 56.25000
+episode: 3850	finetune acc: 66.25000		test acc: 43.75000
+episode: 3900	finetune acc: 73.75000		test acc: 56.25000
+episode: 3950	finetune acc: 57.50000		test acc: 37.50000
+episode: 4000	finetune acc: 66.25000		test acc: 45.83333
+episode: 4050	finetune acc: 60.00000		test acc: 37.50000
+episode: 4100	finetune acc: 63.75000		test acc: 50.00000
+episode: 4150	finetune acc: 71.25000		test acc: 35.41667
+episode: 4200	finetune acc: 75.00000		test acc: 41.66667
+episode: 4250	finetune acc: 62.50000		test acc: 37.50000
+episode: 4300	finetune acc: 73.75000		test acc: 33.33333
+episode: 4350	finetune acc: 65.00000		test acc: 41.66667
+episode: 4400	finetune acc: 60.00000		test acc: 43.75000
+episode: 4450	finetune acc: 57.50000		test acc: 43.75000
+episode: 4500	finetune acc: 65.00000		test acc: 37.50000
+episode: 4550	finetune acc: 72.50000		test acc: 54.16667
+episode: 4600	finetune acc: 61.25000		test acc: 52.08333
+episode: 4650	finetune acc: 67.50000		test acc: 45.83333
+episode: 4700	finetune acc: 66.25000		test acc: 39.58333
+episode: 4750	finetune acc: 72.50000		test acc: 37.50000
+episode: 4800	finetune acc: 61.25000		test acc: 35.41667
+episode: 4850	finetune acc: 67.50000		test acc: 43.75000
+episode: 4900	finetune acc: 67.50000		test acc: 37.50000
+episode: 4950	finetune acc: 76.25000		test acc: 43.75000
+episode: 5000	finetune acc: 63.75000		test acc: 39.06250
+episode: 5050	finetune acc: 70.00000		test acc: 39.06250
+episode: 5100	finetune acc: 62.50000		test acc: 40.62500
+episode: 5150	finetune acc: 73.75000		test acc: 43.75000
+episode: 5200	finetune acc: 72.50000		test acc: 43.75000
+episode: 5250	finetune acc: 57.50000		test acc: 50.00000
+episode: 5300	finetune acc: 60.00000		test acc: 45.31250
+episode: 5350	finetune acc: 60.00000		test acc: 45.31250
+episode: 5400	finetune acc: 67.50000		test acc: 59.37500
+episode: 5450	finetune acc: 78.75000		test acc: 48.43750
+episode: 5500	finetune acc: 75.00000		test acc: 42.18750
+episode: 5550	finetune acc: 60.00000		test acc: 45.31250
+episode: 5600	finetune acc: 73.75000		test acc: 43.75000
+episode: 5650	finetune acc: 56.25000		test acc: 48.43750
+episode: 5700	finetune acc: 71.25000		test acc: 42.18750
+episode: 5750	finetune acc: 67.50000		test acc: 45.31250
+episode: 5800	finetune acc: 56.25000		test acc: 53.12500
+episode: 5850	finetune acc: 85.00000		test acc: 45.31250
+episode: 5900	finetune acc: 71.25000		test acc: 43.75000
+episode: 5950	finetune acc: 71.25000		test acc: 50.00000
+episode: 6000	finetune acc: 71.25000		test acc: 45.31250
+episode: 6050	finetune acc: 55.00000		test acc: 56.25000
+episode: 6100	finetune acc: 57.50000		test acc: 45.31250
+episode: 6150	finetune acc: 56.25000		test acc: 50.00000
+episode: 6200	finetune acc: 70.00000		test acc: 50.00000
+episode: 6250	finetune acc: 73.75000		test acc: 60.93750
+episode: 6300	finetune acc: 65.00000		test acc: 34.37500
+episode: 6350	finetune acc: 67.50000		test acc: 42.18750
+episode: 6400	finetune acc: 58.75000		test acc: 48.43750
+episode: 6450	finetune acc: 75.00000		test acc: 53.12500
+episode: 6500	finetune acc: 73.75000		test acc: 53.12500
+episode: 6550	finetune acc: 72.50000		test acc: 40.62500
+episode: 6600	finetune acc: 58.75000		test acc: 46.87500
+episode: 6650	finetune acc: 58.75000		test acc: 40.62500
+episode: 6700	finetune acc: 60.00000		test acc: 42.18750
+episode: 6750	finetune acc: 68.75000		test acc: 48.43750
+episode: 6800	finetune acc: 60.00000		test acc: 40.62500
+episode: 6850	finetune acc: 65.00000		test acc: 43.75000
+episode: 6900	finetune acc: 76.25000		test acc: 53.12500
+episode: 6950	finetune acc: 73.75000		test acc: 51.56250
+episode: 7000	finetune acc: 65.00000		test acc: 50.00000
+episode: 7050	finetune acc: 60.00000		test acc: 45.31250
+episode: 7100	finetune acc: 68.75000		test acc: 50.00000
+episode: 7150	finetune acc: 71.25000		test acc: 46.87500
+episode: 7200	finetune acc: 57.50000		test acc: 53.12500
+episode: 7250	finetune acc: 66.25000		test acc: 43.75000
+episode: 7300	finetune acc: 66.25000		test acc: 46.87500
+episode: 7350	finetune acc: 55.00000		test acc: 42.18750
+episode: 7400	finetune acc: 75.00000		test acc: 51.56250
+episode: 7450	finetune acc: 72.50000		test acc: 39.06250
+episode: 7500	finetune acc: 68.75000		test acc: 48.43750
+episode: 7550	finetune acc: 78.75000		test acc: 46.87500
+episode: 7600	finetune acc: 66.25000		test acc: 40.62500
+episode: 7650	finetune acc: 72.50000		test acc: 51.56250
+episode: 7700	finetune acc: 70.00000		test acc: 40.62500
+episode: 7750	finetune acc: 70.00000		test acc: 42.18750
+episode: 7800	finetune acc: 67.50000		test acc: 46.87500
+episode: 7850	finetune acc: 63.75000		test acc: 50.00000
+episode: 7900	finetune acc: 55.00000		test acc: 40.62500
+episode: 7950	finetune acc: 75.00000		test acc: 43.75000
+episode: 8000	finetune acc: 62.50000		test acc: 40.62500
+episode: 8050	finetune acc: 75.00000		test acc: 50.00000
+episode: 8100	finetune acc: 68.75000		test acc: 42.18750
+episode: 8150	finetune acc: 52.50000		test acc: 45.31250
+episode: 8200	finetune acc: 61.25000		test acc: 43.75000
+episode: 8250	finetune acc: 70.00000		test acc: 45.31250
+episode: 8300	finetune acc: 73.75000		test acc: 34.37500
+episode: 8350	finetune acc: 73.75000		test acc: 50.00000
+episode: 8400	finetune acc: 67.50000		test acc: 43.75000
+episode: 8450	finetune acc: 60.00000		test acc: 53.12500
+episode: 8500	finetune acc: 56.25000		test acc: 48.43750
+episode: 8550	finetune acc: 68.75000		test acc: 45.31250
+episode: 8600	finetune acc: 67.50000		test acc: 42.18750
+episode: 8650	finetune acc: 71.25000		test acc: 50.00000
+episode: 8700	finetune acc: 65.00000		test acc: 53.12500
+episode: 8750	finetune acc: 70.00000		test acc: 40.62500
+episode: 8800	finetune acc: 72.50000		test acc: 48.43750
+episode: 8850	finetune acc: 66.25000		test acc: 51.56250
+episode: 8900	finetune acc: 75.00000		test acc: 40.62500
+episode: 8950	finetune acc: 63.75000		test acc: 46.87500
+episode: 9000	finetune acc: 67.50000		test acc: 39.06250
+episode: 9050	finetune acc: 65.00000		test acc: 45.31250
+episode: 9100	finetune acc: 70.00000		test acc: 43.75000
+episode: 9150	finetune acc: 67.50000		test acc: 40.62500
+episode: 9200	finetune acc: 66.25000		test acc: 43.75000
+episode: 9250	finetune acc: 60.00000		test acc: 45.31250
+episode: 9300	finetune acc: 68.75000		test acc: 31.25000
+episode: 9350	finetune acc: 62.50000		test acc: 48.43750
+episode: 9400	finetune acc: 70.00000		test acc: 51.56250
+episode: 9450	finetune acc: 61.25000		test acc: 45.31250
+episode: 9500	finetune acc: 73.75000		test acc: 46.87500
+episode: 9550	finetune acc: 76.25000		test acc: 45.31250
+episode: 9600	finetune acc: 63.75000		test acc: 50.00000
+episode: 9650	finetune acc: 73.75000		test acc: 48.43750
+episode: 9700	finetune acc: 75.00000		test acc: 45.31250
+episode: 9750	finetune acc: 70.00000		test acc: 43.75000
+episode: 9800	finetune acc: 76.25000		test acc: 43.75000
+episode: 9850	finetune acc: 65.00000		test acc: 45.31250
+episode: 9900	finetune acc: 73.75000		test acc: 42.18750
+episode: 9950	finetune acc: 62.50000		test acc: 40.62500
+episode: 10000	finetune acc: 72.50000		test acc: 43.75000
+episode: 10050	finetune acc: 66.25000		test acc: 45.00000
+episode: 10100	finetune acc: 65.00000		test acc: 43.75000
+episode: 10150	finetune acc: 73.75000		test acc: 45.00000
+episode: 10200	finetune acc: 73.75000		test acc: 46.25000
+episode: 10250	finetune acc: 72.50000		test acc: 51.25000
+episode: 10300	finetune acc: 66.25000		test acc: 47.50000
+episode: 10350	finetune acc: 62.50000		test acc: 48.75000
+episode: 10400	finetune acc: 67.50000		test acc: 50.00000
+episode: 10450	finetune acc: 70.00000		test acc: 45.00000
+episode: 10500	finetune acc: 70.00000		test acc: 48.75000
+episode: 10550	finetune acc: 68.75000		test acc: 43.75000
+episode: 10600	finetune acc: 73.75000		test acc: 50.00000
+episode: 10650	finetune acc: 65.00000		test acc: 38.75000
+episode: 10700	finetune acc: 67.50000		test acc: 41.25000
+episode: 10750	finetune acc: 70.00000		test acc: 51.25000
+episode: 10800	finetune acc: 66.25000		test acc: 43.75000
+episode: 10850	finetune acc: 82.50000		test acc: 42.50000
+episode: 10900	finetune acc: 71.25000		test acc: 45.00000
+episode: 10950	finetune acc: 73.75000		test acc: 38.75000
+episode: 11000	finetune acc: 77.50000		test acc: 48.75000
+episode: 11050	finetune acc: 55.00000		test acc: 52.50000
+episode: 11100	finetune acc: 63.75000		test acc: 47.50000
+episode: 11150	finetune acc: 68.75000		test acc: 46.25000
+episode: 11200	finetune acc: 61.25000		test acc: 56.25000
+episode: 11250	finetune acc: 66.25000		test acc: 50.00000
+episode: 11300	finetune acc: 73.75000		test acc: 45.00000
+episode: 11350	finetune acc: 66.25000		test acc: 46.25000
+episode: 11400	finetune acc: 65.00000		test acc: 50.00000
+episode: 11450	finetune acc: 60.00000		test acc: 41.25000
+episode: 11500	finetune acc: 72.50000		test acc: 50.00000
+episode: 11550	finetune acc: 77.50000		test acc: 50.00000
+episode: 11600	finetune acc: 82.50000		test acc: 42.50000
+episode: 11650	finetune acc: 68.75000		test acc: 46.25000
+episode: 11700	finetune acc: 75.00000		test acc: 50.00000
+episode: 11750	finetune acc: 76.25000		test acc: 46.25000
+episode: 11800	finetune acc: 61.25000		test acc: 47.50000
+episode: 11850	finetune acc: 72.50000		test acc: 48.75000
+episode: 11900	finetune acc: 66.25000		test acc: 52.50000
+episode: 11950	finetune acc: 65.00000		test acc: 41.25000
+episode: 12000	finetune acc: 63.75000		test acc: 46.25000
+episode: 12050	finetune acc: 71.25000		test acc: 38.75000
+episode: 12100	finetune acc: 68.75000		test acc: 41.25000
+episode: 12150	finetune acc: 70.00000		test acc: 48.75000
+episode: 12200	finetune acc: 72.50000		test acc: 42.50000
+episode: 12250	finetune acc: 78.75000		test acc: 51.25000
+episode: 12300	finetune acc: 81.25000		test acc: 55.00000
+episode: 12350	finetune acc: 76.25000		test acc: 46.25000
+episode: 12400	finetune acc: 63.75000		test acc: 42.50000
+episode: 12450	finetune acc: 55.00000		test acc: 57.50000
+episode: 12500	finetune acc: 77.50000		test acc: 45.00000
+episode: 12550	finetune acc: 65.00000		test acc: 46.25000
+episode: 12600	finetune acc: 72.50000		test acc: 47.50000
+episode: 12650	finetune acc: 72.50000		test acc: 53.75000
+episode: 12700	finetune acc: 75.00000		test acc: 47.50000
+episode: 12750	finetune acc: 58.75000		test acc: 48.75000
+episode: 12800	finetune acc: 65.00000		test acc: 40.00000
+episode: 12850	finetune acc: 73.75000		test acc: 51.25000
+episode: 12900	finetune acc: 75.00000		test acc: 43.75000
+episode: 12950	finetune acc: 70.00000		test acc: 48.75000
+episode: 13000	finetune acc: 67.50000		test acc: 45.00000
+episode: 13050	finetune acc: 75.00000		test acc: 40.00000
+episode: 13100	finetune acc: 65.00000		test acc: 33.75000
+episode: 13150	finetune acc: 57.50000		test acc: 45.00000
+episode: 13200	finetune acc: 73.75000		test acc: 41.25000
+episode: 13250	finetune acc: 76.25000		test acc: 40.00000
+episode: 13300	finetune acc: 71.25000		test acc: 55.00000
+episode: 13350	finetune acc: 76.25000		test acc: 38.75000
+episode: 13400	finetune acc: 68.75000		test acc: 43.75000
+episode: 13450	finetune acc: 77.50000		test acc: 58.75000
+episode: 13500	finetune acc: 67.50000		test acc: 46.25000
+episode: 13550	finetune acc: 72.50000		test acc: 41.25000
+episode: 13600	finetune acc: 65.00000		test acc: 46.25000
+episode: 13650	finetune acc: 67.50000		test acc: 41.25000
+episode: 13700	finetune acc: 66.25000		test acc: 53.75000
+episode: 13750	finetune acc: 68.75000		test acc: 50.00000
+episode: 13800	finetune acc: 67.50000		test acc: 50.00000
+episode: 13850	finetune acc: 70.00000		test acc: 41.25000
+episode: 13900	finetune acc: 70.00000		test acc: 40.00000
+episode: 13950	finetune acc: 60.00000		test acc: 38.75000
+episode: 14000	finetune acc: 65.00000		test acc: 43.75000
+episode: 14050	finetune acc: 58.75000		test acc: 42.50000
+episode: 14100	finetune acc: 46.25000		test acc: 55.00000
+episode: 14150	finetune acc: 76.25000		test acc: 43.75000
+episode: 14200	finetune acc: 71.25000		test acc: 41.25000
+episode: 14250	finetune acc: 70.00000		test acc: 43.75000
+episode: 14300	finetune acc: 63.75000		test acc: 51.25000
+episode: 14350	finetune acc: 60.00000		test acc: 42.50000
+episode: 14400	finetune acc: 77.50000		test acc: 38.75000
+episode: 14450	finetune acc: 72.50000		test acc: 45.00000
+episode: 14500	finetune acc: 78.75000		test acc: 47.50000
+episode: 14550	finetune acc: 72.50000		test acc: 51.25000
+episode: 14600	finetune acc: 76.25000		test acc: 48.75000
+episode: 14650	finetune acc: 75.00000		test acc: 51.25000
+episode: 14700	finetune acc: 77.50000		test acc: 48.75000
+episode: 14750	finetune acc: 75.00000		test acc: 47.50000
+episode: 14800	finetune acc: 71.25000		test acc: 47.50000
+episode: 14850	finetune acc: 63.75000		test acc: 32.50000
+episode: 14900	finetune acc: 68.75000		test acc: 52.50000
+episode: 14950	finetune acc: 65.00000		test acc: 38.75000
+episode: 15000	finetune acc: 67.50000		test acc: 43.75000
+episode: 15050	finetune acc: 70.00000		test acc: 47.91667
+episode: 15100	finetune acc: 60.00000		test acc: 37.50000
+episode: 15150	finetune acc: 62.50000		test acc: 53.12500
+episode: 15200	finetune acc: 65.00000		test acc: 40.62500
+episode: 15250	finetune acc: 76.25000		test acc: 50.00000
+episode: 15300	finetune acc: 76.25000		test acc: 47.91667
+episode: 15350	finetune acc: 76.25000		test acc: 47.91667
+episode: 15400	finetune acc: 66.25000		test acc: 53.12500
+episode: 15450	finetune acc: 76.25000		test acc: 46.87500
+episode: 15500	finetune acc: 75.00000		test acc: 43.75000
+episode: 15550	finetune acc: 70.00000		test acc: 40.62500
+episode: 15600	finetune acc: 81.25000		test acc: 50.00000
+episode: 15650	finetune acc: 71.25000		test acc: 57.29167
+episode: 15700	finetune acc: 66.25000		test acc: 38.54167
+episode: 15750	finetune acc: 67.50000		test acc: 42.70833
+episode: 15800	finetune acc: 78.75000		test acc: 39.58333
+episode: 15850	finetune acc: 65.00000		test acc: 44.79167
+episode: 15900	finetune acc: 71.25000		test acc: 43.75000
+episode: 15950	finetune acc: 87.50000		test acc: 55.20833
+episode: 16000	finetune acc: 68.75000		test acc: 46.87500
+episode: 16050	finetune acc: 63.75000		test acc: 38.54167
+episode: 16100	finetune acc: 71.25000		test acc: 45.83333
+episode: 16150	finetune acc: 76.25000		test acc: 46.87500
+episode: 16200	finetune acc: 80.00000		test acc: 48.95833
+episode: 16250	finetune acc: 67.50000		test acc: 47.91667
+episode: 16300	finetune acc: 67.50000		test acc: 52.08333
+episode: 16350	finetune acc: 75.00000		test acc: 44.79167
+episode: 16400	finetune acc: 66.25000		test acc: 46.87500
+episode: 16450	finetune acc: 75.00000		test acc: 52.08333
+episode: 16500	finetune acc: 72.50000		test acc: 37.50000
+episode: 16550	finetune acc: 78.75000		test acc: 40.62500
+episode: 16600	finetune acc: 76.25000		test acc: 40.62500
+episode: 16650	finetune acc: 76.25000		test acc: 41.66667
+episode: 16700	finetune acc: 73.75000		test acc: 46.87500
+episode: 16750	finetune acc: 77.50000		test acc: 46.87500
+episode: 16800	finetune acc: 76.25000		test acc: 42.70833
+episode: 16850	finetune acc: 76.25000		test acc: 52.08333
+episode: 16900	finetune acc: 68.75000		test acc: 41.66667
+episode: 16950	finetune acc: 73.75000		test acc: 45.83333
+episode: 17000	finetune acc: 66.25000		test acc: 48.95833
+episode: 17050	finetune acc: 77.50000		test acc: 39.58333
+episode: 17100	finetune acc: 72.50000		test acc: 48.95833
+episode: 17150	finetune acc: 75.00000		test acc: 47.91667
+episode: 17200	finetune acc: 75.00000		test acc: 38.54167
+episode: 17250	finetune acc: 72.50000		test acc: 52.08333
+episode: 17300	finetune acc: 78.75000		test acc: 41.66667
+episode: 17350	finetune acc: 82.50000		test acc: 50.00000
+episode: 17400	finetune acc: 71.25000		test acc: 41.66667
+episode: 17450	finetune acc: 70.00000		test acc: 51.04167
+episode: 17500	finetune acc: 70.00000		test acc: 39.58333
+episode: 17550	finetune acc: 71.25000		test acc: 46.87500
+episode: 17600	finetune acc: 78.75000		test acc: 50.00000
+episode: 17650	finetune acc: 71.25000		test acc: 48.95833
+episode: 17700	finetune acc: 81.25000		test acc: 52.08333
+episode: 17750	finetune acc: 75.00000		test acc: 46.87500
+episode: 17800	finetune acc: 73.75000		test acc: 38.54167
+episode: 17850	finetune acc: 68.75000		test acc: 41.66667
+episode: 17900	finetune acc: 71.25000		test acc: 47.91667
+episode: 17950	finetune acc: 72.50000		test acc: 41.66667
+episode: 18000	finetune acc: 71.25000		test acc: 40.62500
+episode: 18050	finetune acc: 81.25000		test acc: 45.83333
+episode: 18100	finetune acc: 71.25000		test acc: 51.04167
+episode: 18150	finetune acc: 76.25000		test acc: 37.50000
+episode: 18200	finetune acc: 73.75000		test acc: 45.83333
+episode: 18250	finetune acc: 75.00000		test acc: 46.87500
+episode: 18300	finetune acc: 66.25000		test acc: 44.79167
+episode: 18350	finetune acc: 68.75000		test acc: 55.20833
+episode: 18400	finetune acc: 75.00000		test acc: 42.70833
+episode: 18450	finetune acc: 68.75000		test acc: 38.54167
+episode: 18500	finetune acc: 77.50000		test acc: 45.83333
+episode: 18550	finetune acc: 70.00000		test acc: 51.04167
+episode: 18600	finetune acc: 67.50000		test acc: 45.83333
+episode: 18650	finetune acc: 71.25000		test acc: 51.04167
+episode: 18700	finetune acc: 63.75000		test acc: 47.91667
+episode: 18750	finetune acc: 75.00000		test acc: 50.00000
+episode: 18800	finetune acc: 71.25000		test acc: 48.95833
+episode: 18850	finetune acc: 72.50000		test acc: 47.91667
+episode: 18900	finetune acc: 78.75000		test acc: 41.66667
+episode: 18950	finetune acc: 75.00000		test acc: 52.08333
+episode: 19000	finetune acc: 71.25000		test acc: 40.62500
+episode: 19050	finetune acc: 76.25000		test acc: 53.12500
+episode: 19100	finetune acc: 75.00000		test acc: 50.00000
+episode: 19150	finetune acc: 73.75000		test acc: 54.16667
+episode: 19200	finetune acc: 76.25000		test acc: 41.66667
+episode: 19250	finetune acc: 75.00000		test acc: 43.75000
+episode: 19300	finetune acc: 67.50000		test acc: 40.62500
+episode: 19350	finetune acc: 72.50000		test acc: 43.75000
+episode: 19400	finetune acc: 66.25000		test acc: 44.79167
+episode: 19450	finetune acc: 73.75000		test acc: 47.91667
+episode: 19500	finetune acc: 67.50000		test acc: 33.33333
+episode: 19550	finetune acc: 71.25000		test acc: 48.95833
+episode: 19600	finetune acc: 81.25000		test acc: 42.70833
+episode: 19650	finetune acc: 68.75000		test acc: 46.87500
+episode: 19700	finetune acc: 81.25000		test acc: 45.83333
+episode: 19750	finetune acc: 78.75000		test acc: 36.45833
+episode: 19800	finetune acc: 68.75000		test acc: 45.83333
+episode: 19850	finetune acc: 75.00000		test acc: 48.95833
+episode: 19900	finetune acc: 80.00000		test acc: 46.87500
+episode: 19950	finetune acc: 77.50000		test acc: 50.00000
+
+Evaluate on train subjects:
+0-shot accuracy on subject 1: 	mean: 81.250000%	std: 9.660019%
+0-shot accuracy on subject 2: 	mean: 51.562500%	std: 13.926815%
+0-shot accuracy on subject 3: 	mean: 86.805556%	std: 7.764125%
+0-shot accuracy on subject 5: 	mean: 56.944444%	std: 8.811512%
+0-shot accuracy on subject 6: 	mean: 61.284722%	std: 10.186993%
+0-shot accuracy on subject 7: 	mean: 80.208333%	std: 10.045470%
+0-shot accuracy on subject 8: 	mean: 80.381944%	std: 10.840620%
+0-shot accuracy on subject 9: 	mean: 78.993056%	std: 9.788650%
+
+Evaluate:
+0-shot accuracy: 	mean: 48.437500%	std: 10.862840%
+1-shot accuracy: 	mean: 48.660714%	std: 15.878053%	after 5 updates
+2-shot accuracy: 	mean: 48.177083%	std: 11.191859%	after 97 updates
+3-shot accuracy: 	mean: 50.312500%	std: 14.720707%	after 13 updates
+4-shot accuracy: 	mean: 52.430556%	std: 13.033559%	after 93 updates
+5-shot accuracy: 	mean: 53.125000%	std: 13.441133%	after 71 updates
+6-shot accuracy: 	mean: 54.017857%	std: 7.321973%	after 7 updates
+7-shot accuracy: 	mean: 54.326923%	std: 11.598402%	after 77 updates
+8-shot accuracy: 	mean: 56.770833%	std: 13.124587%	after 37 updates
+9-shot accuracy: 	mean: 55.681818%	std: 9.405083%	after 77 updates
+10-shot accuracy: 	mean: 56.250000%	std: 7.395100%	after 55 updates

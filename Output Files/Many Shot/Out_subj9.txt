@@ -1,0 +1,1419 @@
+DEVICE = cuda
+Validation Accuracy: [1 : 48.21429] [2 : 25.00000] [3 : 42.85714] [4 : 36.60714] [5 : 24.10714] [6 : 29.46429] [7 : 27.67857] [8 : 33.03571] [9 : nan]
+validation loss: [1 : 1.15542] [2 : 1.54528] [3 : 1.19834] [4 : 1.29726] [5 : 1.65031] [6 : 1.52488] [7 : 1.38359] [8 : 1.53775] [9 : nan]
+train loss: [1 : 1.18299] [2 : 1.43409] [3 : 1.23385] [4 : 1.31548] [5 : 1.40840] [6 : 1.38799] [7 : 1.32597] [8 : 1.27367] [9 : nan]
+Epoch 1: 	validation acc: 33.37054	validation loss: 1.411603	train loss: 1.320304
+Validation Accuracy: [1 : 60.71429] [2 : 23.21429] [3 : 59.82143] [4 : 34.82143] [5 : 25.00000] [6 : 40.17857] [7 : 32.14286] [8 : 33.92857] [9 : nan]
+validation loss: [1 : 0.91746] [2 : 1.69137] [3 : 1.00727] [4 : 1.40274] [5 : 1.91696] [6 : 1.56429] [7 : 1.40693] [8 : 1.38560] [9 : nan]
+train loss: [1 : 1.00374] [2 : 1.42597] [3 : 1.02868] [4 : 1.26710] [5 : 1.41892] [6 : 1.34394] [7 : 1.25064] [8 : 1.17072] [9 : nan]
+Epoch 2: 	validation acc: 38.72768	validation loss: 1.411576	train loss: 1.238714
+Validation Accuracy: [1 : 62.50000] [2 : 27.67857] [3 : 63.39286] [4 : 41.07143] [5 : 25.89286] [6 : 27.67857] [7 : 34.82143] [8 : 42.85714] [9 : nan]
+validation loss: [1 : 0.88041] [2 : 1.81803] [3 : 0.91669] [4 : 1.41641] [5 : 2.02993] [6 : 1.69955] [7 : 1.39939] [8 : 1.22296] [9 : nan]
+train loss: [1 : 0.91327] [2 : 1.42638] [3 : 0.93886] [4 : 1.21793] [5 : 1.40603] [6 : 1.32367] [7 : 1.23599] [8 : 1.06441] [9 : nan]
+Epoch 3: 	validation acc: 40.73661	validation loss: 1.422924	train loss: 1.190819
+Validation Accuracy: [1 : 63.39286] [2 : 26.78571] [3 : 67.85714] [4 : 42.85714] [5 : 22.32143] [6 : 33.92857] [7 : 25.89286] [8 : 42.85714] [9 : nan]
+validation loss: [1 : 0.81524] [2 : 1.88142] [3 : 0.79329] [4 : 1.39812] [5 : 2.21344] [6 : 1.69229] [7 : 1.43047] [8 : 1.21117] [9 : nan]
+train loss: [1 : 0.85000] [2 : 1.38445] [3 : 0.85101] [4 : 1.13928] [5 : 1.38327] [6 : 1.26950] [7 : 1.22078] [8 : 0.97953] [9 : nan]
+Epoch 4: 	validation acc: 40.73661	validation loss: 1.429430	train loss: 1.134727
+Validation Accuracy: [1 : 68.75000] [2 : 24.10714] [3 : 66.96429] [4 : 39.28571] [5 : 20.53571] [6 : 36.60714] [7 : 32.14286] [8 : 55.35714] [9 : nan]
+validation loss: [1 : 0.77102] [2 : 1.83545] [3 : 0.76266] [4 : 1.30539] [5 : 2.13810] [6 : 1.77795] [7 : 1.35632] [8 : 1.01879] [9 : nan]
+train loss: [1 : 0.80452] [2 : 1.34423] [3 : 0.79464] [4 : 1.13212] [5 : 1.43516] [6 : 1.27697] [7 : 1.14621] [8 : 0.95721] [9 : nan]
+Epoch 5: 	validation acc: 42.96875	validation loss: 1.370709	train loss: 1.111383
+Validation Accuracy: [1 : 66.96429] [2 : 26.78571] [3 : 68.75000] [4 : 42.85714] [5 : 27.67857] [6 : 31.25000] [7 : 34.82143] [8 : 55.35714] [9 : nan]
+validation loss: [1 : 0.76219] [2 : 1.82541] [3 : 0.74088] [4 : 1.35619] [5 : 2.16678] [6 : 1.66089] [7 : 1.33995] [8 : 1.05736] [9 : nan]
+train loss: [1 : 0.80183] [2 : 1.30562] [3 : 0.81378] [4 : 1.11789] [5 : 1.37401] [6 : 1.25079] [7 : 1.10213] [8 : 0.89041] [9 : nan]
+Epoch 6: 	validation acc: 44.30804	validation loss: 1.363708	train loss: 1.082056
+Validation Accuracy: [1 : 65.17857] [2 : 24.10714] [3 : 70.53571] [4 : 48.21429] [5 : 27.67857] [6 : 34.82143] [7 : 35.71429] [8 : 57.14286] [9 : nan]
+validation loss: [1 : 0.76029] [2 : 1.85891] [3 : 0.73601] [4 : 1.28945] [5 : 2.29574] [6 : 1.72173] [7 : 1.37148] [8 : 0.98804] [9 : nan]
+train loss: [1 : 0.78105] [2 : 1.36233] [3 : 0.77384] [4 : 1.08739] [5 : 1.38913] [6 : 1.22864] [7 : 1.11988] [8 : 0.89784] [9 : nan]
+Epoch 7: 	validation acc: 45.42411	validation loss: 1.377707	train loss: 1.080012
+Validation Accuracy: [1 : 66.07143] [2 : 25.89286] [3 : 67.85714] [4 : 43.75000] [5 : 26.78571] [6 : 35.71429] [7 : 38.39286] [8 : 57.14286] [9 : nan]
+validation loss: [1 : 0.72949] [2 : 1.86177] [3 : 0.75568] [4 : 1.25608] [5 : 2.22245] [6 : 1.74558] [7 : 1.34543] [8 : 0.97212] [9 : nan]
+train loss: [1 : 0.76756] [2 : 1.28897] [3 : 0.75670] [4 : 1.09842] [5 : 1.36322] [6 : 1.20999] [7 : 1.08695] [8 : 0.87802] [9 : nan]
+Epoch 8: 	validation acc: 45.20089	validation loss: 1.361076	train loss: 1.056229
+Validation Accuracy: [1 : 67.85714] [2 : 28.57143] [3 : 70.53571] [4 : 46.42857] [5 : 30.35714] [6 : 33.92857] [7 : 36.60714] [8 : 64.28571] [9 : nan]
+validation loss: [1 : 0.71319] [2 : 1.89479] [3 : 0.73040] [4 : 1.29330] [5 : 2.24913] [6 : 1.69996] [7 : 1.32449] [8 : 0.90838] [9 : nan]
+train loss: [1 : 0.74570] [2 : 1.26651] [3 : 0.74116] [4 : 1.01374] [5 : 1.36361] [6 : 1.22161] [7 : 1.03973] [8 : 0.83026] [9 : nan]
+Epoch 9: 	validation acc: 47.32143	validation loss: 1.351704	train loss: 1.027791
+Validation Accuracy: [1 : 67.85714] [2 : 32.14286] [3 : 67.85714] [4 : 44.64286] [5 : 28.57143] [6 : 33.03571] [7 : 38.39286] [8 : 62.50000] [9 : nan]
+validation loss: [1 : 0.72911] [2 : 1.90134] [3 : 0.71723] [4 : 1.29145] [5 : 2.25299] [6 : 1.68180] [7 : 1.36171] [8 : 0.94768] [9 : nan]
+train loss: [1 : 0.74639] [2 : 1.34676] [3 : 0.72925] [4 : 1.06621] [5 : 1.40438] [6 : 1.20554] [7 : 1.04481] [8 : 0.87403] [9 : nan]
+Epoch 10: 	validation acc: 46.87500	validation loss: 1.360413	train loss: 1.052170
+Validation Accuracy: [1 : 68.75000] [2 : 24.10714] [3 : 69.64286] [4 : 44.64286] [5 : 27.67857] [6 : 36.60714] [7 : 37.50000] [8 : 62.50000] [9 : nan]
+validation loss: [1 : 0.72913] [2 : 1.88955] [3 : 0.76880] [4 : 1.29409] [5 : 2.23124] [6 : 1.70561] [7 : 1.29079] [8 : 0.89230] [9 : nan]
+train loss: [1 : 0.74094] [2 : 1.29074] [3 : 0.71217] [4 : 1.04156] [5 : 1.31364] [6 : 1.17890] [7 : 1.03719] [8 : 0.83747] [9 : nan]
+Epoch 11: 	validation acc: 46.42857	validation loss: 1.350190	train loss: 1.019077
+Validation Accuracy: [1 : 70.53571] [2 : 28.57143] [3 : 69.64286] [4 : 51.78571] [5 : 27.67857] [6 : 32.14286] [7 : 38.39286] [8 : 59.82143] [9 : nan]
+validation loss: [1 : 0.68242] [2 : 1.93499] [3 : 0.72873] [4 : 1.22841] [5 : 2.40442] [6 : 1.74720] [7 : 1.30989] [8 : 0.91860] [9 : nan]
+train loss: [1 : 0.73809] [2 : 1.25135] [3 : 0.70511] [4 : 1.00297] [5 : 1.32879] [6 : 1.15429] [7 : 0.99552] [8 : 0.82823] [9 : nan]
+Epoch 12: 	validation acc: 47.32143	validation loss: 1.369334	train loss: 1.000542
+Validation Accuracy: [1 : 68.75000] [2 : 28.57143] [3 : 65.17857] [4 : 46.42857] [5 : 27.67857] [6 : 37.50000] [7 : 40.17857] [8 : 65.17857] [9 : nan]
+validation loss: [1 : 0.70304] [2 : 1.95440] [3 : 0.72206] [4 : 1.27562] [5 : 2.44692] [6 : 1.69945] [7 : 1.23947] [8 : 0.88647] [9 : nan]
+train loss: [1 : 0.69463] [2 : 1.29539] [3 : 0.66991] [4 : 1.00509] [5 : 1.35550] [6 : 1.14596] [7 : 0.97964] [8 : 0.80460] [9 : nan]
+Epoch 13: 	validation acc: 47.43304	validation loss: 1.365929	train loss: 0.993842
+Validation Accuracy: [1 : 66.96429] [2 : 27.67857] [3 : 73.21429] [4 : 48.21429] [5 : 26.78571] [6 : 36.60714] [7 : 49.10714] [8 : 67.85714] [9 : nan]
+validation loss: [1 : 0.73359] [2 : 1.86830] [3 : 0.74431] [4 : 1.21109] [5 : 2.38925] [6 : 1.63083] [7 : 1.23668] [8 : 0.85839] [9 : nan]
+train loss: [1 : 0.72628] [2 : 1.31519] [3 : 0.71647] [4 : 0.98511] [5 : 1.33043] [6 : 1.13737] [7 : 0.99179] [8 : 0.82766] [9 : nan]
+Epoch 14: 	validation acc: 49.55357	validation loss: 1.334053	train loss: 1.003787
+Validation Accuracy: [1 : 66.96429] [2 : 26.78571] [3 : 75.89286] [4 : 48.21429] [5 : 26.78571] [6 : 34.82143] [7 : 45.53571] [8 : 65.17857] [9 : nan]
+validation loss: [1 : 0.71679] [2 : 1.98446] [3 : 0.68317] [4 : 1.23305] [5 : 2.50123] [6 : 1.90329] [7 : 1.26247] [8 : 0.83146] [9 : nan]
+train loss: [1 : 0.67113] [2 : 1.31794] [3 : 0.63663] [4 : 0.96147] [5 : 1.25811] [6 : 1.18565] [7 : 0.97618] [8 : 0.81109] [9 : nan]
+Epoch 15: 	validation acc: 48.77232	validation loss: 1.389489	train loss: 0.977273
+Validation Accuracy: [1 : 65.17857] [2 : 32.14286] [3 : 70.53571] [4 : 43.75000] [5 : 25.89286] [6 : 37.50000] [7 : 39.28571] [8 : 66.07143] [9 : nan]
+validation loss: [1 : 0.70088] [2 : 1.88858] [3 : 0.71747] [4 : 1.23932] [5 : 2.34684] [6 : 1.66395] [7 : 1.30435] [8 : 0.80893] [9 : nan]
+train loss: [1 : 0.68736] [2 : 1.27801] [3 : 0.70373] [4 : 1.02690] [5 : 1.26593] [6 : 1.13978] [7 : 0.93205] [8 : 0.79154] [9 : nan]
+Epoch 16: 	validation acc: 47.54464	validation loss: 1.333791	train loss: 0.978161
+Validation Accuracy: [1 : 70.53571] [2 : 31.25000] [3 : 72.32143] [4 : 50.89286] [5 : 25.89286] [6 : 35.71429] [7 : 43.75000] [8 : 64.28571] [9 : nan]
+validation loss: [1 : 0.68337] [2 : 1.93372] [3 : 0.71300] [4 : 1.18037] [5 : 2.66035] [6 : 1.77387] [7 : 1.23003] [8 : 0.95957] [9 : nan]
+train loss: [1 : 0.65953] [2 : 1.27520] [3 : 0.67533] [4 : 1.01902] [5 : 1.29691] [6 : 1.15197] [7 : 0.93463] [8 : 0.80471] [9 : nan]
+Epoch 17: 	validation acc: 49.33036	validation loss: 1.391786	train loss: 0.977162
+Validation Accuracy: [1 : 70.53571] [2 : 31.25000] [3 : 73.21429] [4 : 49.10714] [5 : 31.25000] [6 : 37.50000] [7 : 41.07143] [8 : 60.71429] [9 : nan]
+validation loss: [1 : 0.68485] [2 : 1.88550] [3 : 0.66831] [4 : 1.20221] [5 : 2.29627] [6 : 1.63471] [7 : 1.35404] [8 : 0.88097] [9 : nan]
+train loss: [1 : 0.69752] [2 : 1.22678] [3 : 0.69466] [4 : 0.97116] [5 : 1.17076] [6 : 1.10203] [7 : 0.91341] [8 : 0.78146] [9 : nan]
+Epoch 18: 	validation acc: 49.33036	validation loss: 1.325856	train loss: 0.944722
+Validation Accuracy: [1 : 67.85714] [2 : 30.35714] [3 : 65.17857] [4 : 53.57143] [5 : 32.14286] [6 : 33.03571] [7 : 41.96429] [8 : 60.71429] [9 : nan]
+validation loss: [1 : 0.70152] [2 : 1.81688] [3 : 0.73713] [4 : 1.20740] [5 : 2.37295] [6 : 1.75410] [7 : 1.24682] [8 : 0.86964] [9 : nan]
+train loss: [1 : 0.68611] [2 : 1.24207] [3 : 0.69247] [4 : 1.00322] [5 : 1.29349] [6 : 1.16204] [7 : 0.90511] [8 : 0.78539] [9 : nan]
+Epoch 19: 	validation acc: 48.10268	validation loss: 1.338305	train loss: 0.971237
+Validation Accuracy: [1 : 66.07143] [2 : 32.14286] [3 : 75.00000] [4 : 48.21429] [5 : 27.67857] [6 : 36.60714] [7 : 41.96429] [8 : 59.82143] [9 : nan]
+validation loss: [1 : 0.70861] [2 : 1.92425] [3 : 0.64537] [4 : 1.24388] [5 : 2.48814] [6 : 1.72055] [7 : 1.27470] [8 : 0.97487] [9 : nan]
+train loss: [1 : 0.68877] [2 : 1.23217] [3 : 0.66836] [4 : 0.95295] [5 : 1.29184] [6 : 1.10676] [7 : 0.90078] [8 : 0.74814] [9 : nan]
+Epoch 20: 	validation acc: 48.43750	validation loss: 1.372547	train loss: 0.948722
+Validation Accuracy: [1 : 69.64286] [2 : 27.67857] [3 : 70.53571] [4 : 48.21429] [5 : 27.67857] [6 : 40.17857] [7 : 44.64286] [8 : 66.07143] [9 : nan]
+validation loss: [1 : 0.73821] [2 : 1.95244] [3 : 0.69937] [4 : 1.17753] [5 : 2.56240] [6 : 1.67426] [7 : 1.27858] [8 : 0.87532] [9 : nan]
+train loss: [1 : 0.69545] [2 : 1.21336] [3 : 0.70778] [4 : 0.97100] [5 : 1.26187] [6 : 1.08588] [7 : 0.90761] [8 : 0.82350] [9 : nan]
+Epoch 21: 	validation acc: 49.33036	validation loss: 1.369763	train loss: 0.958307
+Validation Accuracy: [1 : 69.64286] [2 : 30.35714] [3 : 69.64286] [4 : 47.32143] [5 : 27.67857] [6 : 34.82143] [7 : 44.64286] [8 : 66.07143] [9 : nan]
+validation loss: [1 : 0.69700] [2 : 1.91589] [3 : 0.67312] [4 : 1.24574] [5 : 2.44421] [6 : 1.79029] [7 : 1.21236] [8 : 0.85322] [9 : nan]
+train loss: [1 : 0.69868] [2 : 1.25394] [3 : 0.68416] [4 : 0.96542] [5 : 1.25264] [6 : 1.08925] [7 : 0.90654] [8 : 0.76169] [9 : nan]
+Epoch 22: 	validation acc: 48.77232	validation loss: 1.353980	train loss: 0.951541
+Validation Accuracy: [1 : 70.53571] [2 : 28.57143] [3 : 75.00000] [4 : 50.00000] [5 : 29.46429] [6 : 37.50000] [7 : 46.42857] [8 : 60.71429] [9 : nan]
+validation loss: [1 : 0.68774] [2 : 2.02464] [3 : 0.66538] [4 : 1.22571] [5 : 2.43820] [6 : 1.68116] [7 : 1.24940] [8 : 0.87336] [9 : nan]
+train loss: [1 : 0.67533] [2 : 1.25386] [3 : 0.70153] [4 : 0.96161] [5 : 1.19792] [6 : 1.10601] [7 : 0.86095] [8 : 0.79093] [9 : nan]
+Epoch 23: 	validation acc: 49.77679	validation loss: 1.355701	train loss: 0.943517
+Validation Accuracy: [1 : 73.21429] [2 : 37.50000] [3 : 72.32143] [4 : 50.00000] [5 : 33.92857] [6 : 39.28571] [7 : 45.53571] [8 : 66.07143] [9 : nan]
+validation loss: [1 : 0.65406] [2 : 1.80083] [3 : 0.67256] [4 : 1.20229] [5 : 2.51067] [6 : 1.71016] [7 : 1.13848] [8 : 0.94667] [9 : nan]
+train loss: [1 : 0.64424] [2 : 1.21076] [3 : 0.65932] [4 : 0.95045] [5 : 1.17799] [6 : 1.11943] [7 : 0.85024] [8 : 0.76671] [9 : nan]
+Epoch 24: 	validation acc: 52.23214	validation loss: 1.329466	train loss: 0.922393
+Validation Accuracy: [1 : 72.32143] [2 : 33.92857] [3 : 70.53571] [4 : 50.00000] [5 : 31.25000] [6 : 41.07143] [7 : 44.64286] [8 : 64.28571] [9 : nan]
+validation loss: [1 : 0.64317] [2 : 1.87385] [3 : 0.68486] [4 : 1.26043] [5 : 2.56299] [6 : 1.66333] [7 : 1.20330] [8 : 0.86693] [9 : nan]
+train loss: [1 : 0.66659] [2 : 1.15531] [3 : 0.66090] [4 : 0.97035] [5 : 1.22663] [6 : 1.12174] [7 : 0.87843] [8 : 0.74632] [9 : nan]
+Epoch 25: 	validation acc: 51.00446	validation loss: 1.344857	train loss: 0.928283
+Validation Accuracy: [1 : 76.78571] [2 : 29.46429] [3 : 74.10714] [4 : 47.32143] [5 : 31.25000] [6 : 43.75000] [7 : 49.10714] [8 : 62.50000] [9 : nan]
+validation loss: [1 : 0.66155] [2 : 1.95906] [3 : 0.67846] [4 : 1.17996] [5 : 2.36989] [6 : 1.47165] [7 : 1.19925] [8 : 0.85541] [9 : nan]
+train loss: [1 : 0.65632] [2 : 1.17669] [3 : 0.65254] [4 : 0.96178] [5 : 1.21884] [6 : 1.08153] [7 : 0.82307] [8 : 0.80436] [9 : nan]
+Epoch 26: 	validation acc: 51.78571	validation loss: 1.296905	train loss: 0.921894
+Validation Accuracy: [1 : 70.53571] [2 : 33.03571] [3 : 73.21429] [4 : 50.00000] [5 : 30.35714] [6 : 39.28571] [7 : 47.32143] [8 : 61.60714] [9 : nan]
+validation loss: [1 : 0.64523] [2 : 1.93604] [3 : 0.68151] [4 : 1.19647] [5 : 2.42788] [6 : 1.73026] [7 : 1.22662] [8 : 0.87729] [9 : nan]
+train loss: [1 : 0.63064] [2 : 1.19629] [3 : 0.68224] [4 : 0.88720] [5 : 1.21106] [6 : 1.13889] [7 : 0.80018] [8 : 0.74408] [9 : nan]
+Epoch 27: 	validation acc: 50.66964	validation loss: 1.340161	train loss: 0.911320
+Validation Accuracy: [1 : 70.53571] [2 : 33.92857] [3 : 73.21429] [4 : 54.46429] [5 : 29.46429] [6 : 40.17857] [7 : 43.75000] [8 : 69.64286] [9 : nan]
+validation loss: [1 : 0.67094] [2 : 1.91249] [3 : 0.66308] [4 : 1.18964] [5 : 2.46264] [6 : 1.71727] [7 : 1.22643] [8 : 0.75018] [9 : nan]
+train loss: [1 : 0.65873] [2 : 1.18148] [3 : 0.63725] [4 : 0.93316] [5 : 1.21964] [6 : 1.08636] [7 : 0.85633] [8 : 0.75753] [9 : nan]
+Epoch 28: 	validation acc: 51.89732	validation loss: 1.324082	train loss: 0.916311
+Validation Accuracy: [1 : 74.10714] [2 : 33.92857] [3 : 71.42857] [4 : 51.78571] [5 : 33.92857] [6 : 40.17857] [7 : 42.85714] [8 : 62.50000] [9 : nan]
+validation loss: [1 : 0.63726] [2 : 2.00669] [3 : 0.68535] [4 : 1.19953] [5 : 2.51215] [6 : 1.46516] [7 : 1.28002] [8 : 0.77994] [9 : nan]
+train loss: [1 : 0.66009] [2 : 1.15677] [3 : 0.70782] [4 : 0.91630] [5 : 1.19071] [6 : 1.13185] [7 : 0.83543] [8 : 0.75660] [9 : nan]
+Epoch 29: 	validation acc: 51.33929	validation loss: 1.320761	train loss: 0.919448
+Validation Accuracy: [1 : 73.21429] [2 : 31.25000] [3 : 66.96429] [4 : 55.35714] [5 : 34.82143] [6 : 37.50000] [7 : 49.10714] [8 : 65.17857] [9 : nan]
+validation loss: [1 : 0.62588] [2 : 1.86216] [3 : 0.70499] [4 : 1.15783] [5 : 2.42098] [6 : 1.65188] [7 : 1.16379] [8 : 0.75552] [9 : nan]
+train loss: [1 : 0.66503] [2 : 1.15999] [3 : 0.67769] [4 : 0.90643] [5 : 1.20175] [6 : 1.09259] [7 : 0.82408] [8 : 0.76298] [9 : nan]
+Epoch 30: 	validation acc: 51.67411	validation loss: 1.292880	train loss: 0.911317
+Validation Accuracy: [1 : 74.10714] [2 : 35.71429] [3 : 69.64286] [4 : 50.89286] [5 : 31.25000] [6 : 35.71429] [7 : 43.75000] [8 : 65.17857] [9 : nan]
+validation loss: [1 : 0.62576] [2 : 1.97528] [3 : 0.64688] [4 : 1.25505] [5 : 2.51911] [6 : 1.75384] [7 : 1.34156] [8 : 0.76286] [9 : nan]
+train loss: [1 : 0.66642] [2 : 1.16069] [3 : 0.64782] [4 : 0.91849] [5 : 1.27528] [6 : 1.03292] [7 : 0.82254] [8 : 0.70868] [9 : nan]
+Epoch 31: 	validation acc: 50.78125	validation loss: 1.360043	train loss: 0.904105
+Validation Accuracy: [1 : 75.89286] [2 : 33.92857] [3 : 73.21429] [4 : 54.46429] [5 : 35.71429] [6 : 39.28571] [7 : 48.21429] [8 : 61.60714] [9 : nan]
+validation loss: [1 : 0.60132] [2 : 2.05480] [3 : 0.64463] [4 : 1.18753] [5 : 2.63982] [6 : 1.69031] [7 : 1.21655] [8 : 0.84465] [9 : nan]
+train loss: [1 : 0.63587] [2 : 1.18698] [3 : 0.62468] [4 : 0.92882] [5 : 1.21126] [6 : 1.04601] [7 : 0.77461] [8 : 0.71787] [9 : nan]
+Epoch 32: 	validation acc: 52.79018	validation loss: 1.359952	train loss: 0.890764
+Validation Accuracy: [1 : 75.89286] [2 : 35.71429] [3 : 76.78571] [4 : 58.03571] [5 : 34.82143] [6 : 43.75000] [7 : 47.32143] [8 : 64.28571] [9 : nan]
+validation loss: [1 : 0.62688] [2 : 1.86505] [3 : 0.57550] [4 : 1.14666] [5 : 2.58939] [6 : 1.57258] [7 : 1.21406] [8 : 0.87387] [9 : nan]
+train loss: [1 : 0.62939] [2 : 1.14869] [3 : 0.66947] [4 : 0.86513] [5 : 1.15442] [6 : 1.09979] [7 : 0.81677] [8 : 0.74812] [9 : nan]
+Epoch 33: 	validation acc: 54.57589	validation loss: 1.307999	train loss: 0.891472
+Validation Accuracy: [1 : 73.21429] [2 : 33.03571] [3 : 74.10714] [4 : 54.46429] [5 : 29.46429] [6 : 38.39286] [7 : 47.32143] [8 : 73.21429] [9 : nan]
+validation loss: [1 : 0.63471] [2 : 2.00473] [3 : 0.61878] [4 : 1.16430] [5 : 2.72541] [6 : 1.70997] [7 : 1.24655] [8 : 0.75972] [9 : nan]
+train loss: [1 : 0.65154] [2 : 1.21162] [3 : 0.64890] [4 : 0.90884] [5 : 1.20937] [6 : 1.06165] [7 : 0.78905] [8 : 0.70996] [9 : nan]
+Epoch 34: 	validation acc: 52.90179	validation loss: 1.358022	train loss: 0.898866
+Validation Accuracy: [1 : 71.42857] [2 : 34.82143] [3 : 77.67857] [4 : 58.92857] [5 : 31.25000] [6 : 41.96429] [7 : 48.21429] [8 : 68.75000] [9 : nan]
+validation loss: [1 : 0.63397] [2 : 1.88551] [3 : 0.64246] [4 : 1.14458] [5 : 2.57950] [6 : 1.54203] [7 : 1.17190] [8 : 0.80263] [9 : nan]
+train loss: [1 : 0.63443] [2 : 1.19117] [3 : 0.69067] [4 : 0.87259] [5 : 1.16721] [6 : 1.06834] [7 : 0.79385] [8 : 0.72009] [9 : nan]
+Epoch 35: 	validation acc: 54.12946	validation loss: 1.300323	train loss: 0.892293
+Validation Accuracy: [1 : 72.32143] [2 : 33.92857] [3 : 72.32143] [4 : 54.46429] [5 : 35.71429] [6 : 36.60714] [7 : 52.67857] [8 : 65.17857] [9 : nan]
+validation loss: [1 : 0.63731] [2 : 2.01399] [3 : 0.66782] [4 : 1.14394] [5 : 2.54179] [6 : 1.72314] [7 : 1.15511] [8 : 0.75577] [9 : nan]
+train loss: [1 : 0.61566] [2 : 1.18691] [3 : 0.65369] [4 : 0.88625] [5 : 1.18224] [6 : 1.02842] [7 : 0.82158] [8 : 0.74992] [9 : nan]
+Epoch 36: 	validation acc: 52.90179	validation loss: 1.329860	train loss: 0.890582
+Validation Accuracy: [1 : 74.10714] [2 : 32.14286] [3 : 74.10714] [4 : 57.14286] [5 : 33.92857] [6 : 40.17857] [7 : 49.10714] [8 : 66.07143] [9 : nan]
+validation loss: [1 : 0.64692] [2 : 2.05806] [3 : 0.61619] [4 : 1.11275] [5 : 2.64702] [6 : 1.70906] [7 : 1.20971] [8 : 0.77199] [9 : nan]
+train loss: [1 : 0.62679] [2 : 1.18792] [3 : 0.62706] [4 : 0.87473] [5 : 1.14616] [6 : 1.05047] [7 : 0.76243] [8 : 0.74383] [9 : nan]
+Epoch 37: 	validation acc: 53.34821	validation loss: 1.346462	train loss: 0.877423
+Validation Accuracy: [1 : 75.89286] [2 : 33.92857] [3 : 75.89286] [4 : 58.03571] [5 : 33.03571] [6 : 41.07143] [7 : 48.21429] [8 : 70.53571] [9 : nan]
+validation loss: [1 : 0.60600] [2 : 1.93563] [3 : 0.66084] [4 : 1.09723] [5 : 2.56238] [6 : 1.80130] [7 : 1.20921] [8 : 0.75245] [9 : nan]
+train loss: [1 : 0.62340] [2 : 1.14399] [3 : 0.62080] [4 : 0.90495] [5 : 1.12208] [6 : 1.03099] [7 : 0.77400] [8 : 0.72997] [9 : nan]
+Epoch 38: 	validation acc: 54.57589	validation loss: 1.328130	train loss: 0.868773
+Validation Accuracy: [1 : 75.89286] [2 : 29.46429] [3 : 72.32143] [4 : 54.46429] [5 : 31.25000] [6 : 42.85714] [7 : 43.75000] [8 : 66.96429] [9 : nan]
+validation loss: [1 : 0.62465] [2 : 2.03323] [3 : 0.61493] [4 : 1.13888] [5 : 2.66072] [6 : 1.69996] [7 : 1.28252] [8 : 0.73402] [9 : nan]
+train loss: [1 : 0.60316] [2 : 1.14126] [3 : 0.61660] [4 : 0.90587] [5 : 1.11150] [6 : 1.08318] [7 : 0.79924] [8 : 0.72671] [9 : nan]
+Epoch 39: 	validation acc: 52.12054	validation loss: 1.348614	train loss: 0.873439
+Validation Accuracy: [1 : 75.00000] [2 : 33.92857] [3 : 73.21429] [4 : 56.25000] [5 : 33.92857] [6 : 39.28571] [7 : 48.21429] [8 : 71.42857] [9 : nan]
+validation loss: [1 : 0.61865] [2 : 1.94160] [3 : 0.63915] [4 : 1.15106] [5 : 2.66766] [6 : 1.65529] [7 : 1.22183] [8 : 0.69222] [9 : nan]
+train loss: [1 : 0.60674] [2 : 1.16912] [3 : 0.61519] [4 : 0.86434] [5 : 1.19195] [6 : 1.04952] [7 : 0.81045] [8 : 0.73002] [9 : nan]
+Epoch 40: 	validation acc: 53.90625	validation loss: 1.323433	train loss: 0.879666
+Validation Accuracy: [1 : 73.21429] [2 : 30.35714] [3 : 74.10714] [4 : 58.92857] [5 : 32.14286] [6 : 40.17857] [7 : 48.21429] [8 : 69.64286] [9 : nan]
+validation loss: [1 : 0.64344] [2 : 1.91977] [3 : 0.62400] [4 : 1.14631] [5 : 2.59561] [6 : 1.67093] [7 : 1.22283] [8 : 0.76462] [9 : nan]
+train loss: [1 : 0.62680] [2 : 1.14968] [3 : 0.62366] [4 : 0.88469] [5 : 1.16483] [6 : 1.06786] [7 : 0.77596] [8 : 0.73906] [9 : nan]
+Epoch 41: 	validation acc: 53.34821	validation loss: 1.323438	train loss: 0.879066
+Validation Accuracy: [1 : 73.21429] [2 : 33.92857] [3 : 73.21429] [4 : 55.35714] [5 : 29.46429] [6 : 41.07143] [7 : 48.21429] [8 : 71.42857] [9 : nan]
+validation loss: [1 : 0.63128] [2 : 1.91576] [3 : 0.64367] [4 : 1.08483] [5 : 2.63304] [6 : 1.72253] [7 : 1.19115] [8 : 0.79654] [9 : nan]
+train loss: [1 : 0.65105] [2 : 1.12660] [3 : 0.64486] [4 : 0.89524] [5 : 1.08802] [6 : 1.04503] [7 : 0.80522] [8 : 0.69893] [9 : nan]
+Epoch 42: 	validation acc: 53.23661	validation loss: 1.327349	train loss: 0.869369
+Validation Accuracy: [1 : 72.32143] [2 : 30.35714] [3 : 74.10714] [4 : 56.25000] [5 : 31.25000] [6 : 39.28571] [7 : 48.21429] [8 : 66.96429] [9 : nan]
+validation loss: [1 : 0.61414] [2 : 2.04613] [3 : 0.63407] [4 : 1.12916] [5 : 2.66304] [6 : 1.73243] [7 : 1.19789] [8 : 0.73186] [9 : nan]
+train loss: [1 : 0.67753] [2 : 1.14513] [3 : 0.67823] [4 : 0.88149] [5 : 1.08263] [6 : 1.08597] [7 : 0.74620] [8 : 0.71193] [9 : nan]
+Epoch 43: 	validation acc: 52.34375	validation loss: 1.343590	train loss: 0.876139
+Validation Accuracy: [1 : 70.53571] [2 : 30.35714] [3 : 75.89286] [4 : 57.14286] [5 : 31.25000] [6 : 36.60714] [7 : 53.57143] [8 : 67.85714] [9 : nan]
+validation loss: [1 : 0.64239] [2 : 2.00473] [3 : 0.63672] [4 : 1.12420] [5 : 2.65039] [6 : 1.75075] [7 : 1.14419] [8 : 0.73548] [9 : nan]
+train loss: [1 : 0.59659] [2 : 1.12770] [3 : 0.63965] [4 : 0.87215] [5 : 1.14976] [6 : 1.08733] [7 : 0.73457] [8 : 0.73236] [9 : nan]
+Epoch 44: 	validation acc: 52.90179	validation loss: 1.336106	train loss: 0.867514
+Validation Accuracy: [1 : 75.89286] [2 : 32.14286] [3 : 76.78571] [4 : 53.57143] [5 : 33.03571] [6 : 40.17857] [7 : 51.78571] [8 : 70.53571] [9 : nan]
+validation loss: [1 : 0.60205] [2 : 2.01804] [3 : 0.60523] [4 : 1.07872] [5 : 2.72942] [6 : 1.75841] [7 : 1.21872] [8 : 0.76164] [9 : nan]
+train loss: [1 : 0.62675] [2 : 1.15248] [3 : 0.63753] [4 : 0.86279] [5 : 1.17980] [6 : 1.02111] [7 : 0.76041] [8 : 0.72058] [9 : nan]
+Epoch 45: 	validation acc: 54.24107	validation loss: 1.346527	train loss: 0.870182
+Validation Accuracy: [1 : 68.75000] [2 : 31.25000] [3 : 77.67857] [4 : 61.60714] [5 : 33.92857] [6 : 41.07143] [7 : 52.67857] [8 : 69.64286] [9 : nan]
+validation loss: [1 : 0.64086] [2 : 1.92719] [3 : 0.62822] [4 : 1.08475] [5 : 2.60919] [6 : 1.66987] [7 : 1.18172] [8 : 0.77686] [9 : nan]
+train loss: [1 : 0.60439] [2 : 1.12505] [3 : 0.66411] [4 : 0.84044] [5 : 1.13275] [6 : 1.02786] [7 : 0.75288] [8 : 0.71079] [9 : nan]
+Epoch 46: 	validation acc: 54.57589	validation loss: 1.314834	train loss: 0.857283
+Validation Accuracy: [1 : 71.42857] [2 : 34.82143] [3 : 74.10714] [4 : 58.03571] [5 : 31.25000] [6 : 42.85714] [7 : 48.21429] [8 : 73.21429] [9 : nan]
+validation loss: [1 : 0.63664] [2 : 1.98707] [3 : 0.57588] [4 : 1.12668] [5 : 2.77256] [6 : 1.61667] [7 : 1.13139] [8 : 0.78084] [9 : nan]
+train loss: [1 : 0.58676] [2 : 1.19537] [3 : 0.62188] [4 : 0.89398] [5 : 1.10274] [6 : 1.03825] [7 : 0.78269] [8 : 0.66266] [9 : nan]
+Epoch 47: 	validation acc: 54.24107	validation loss: 1.328468	train loss: 0.860541
+Validation Accuracy: [1 : 73.21429] [2 : 31.25000] [3 : 76.78571] [4 : 51.78571] [5 : 33.03571] [6 : 41.96429] [7 : 50.89286] [8 : 71.42857] [9 : nan]
+validation loss: [1 : 0.59143] [2 : 2.07401] [3 : 0.64902] [4 : 1.18936] [5 : 2.58775] [6 : 1.71952] [7 : 1.18997] [8 : 0.74010] [9 : nan]
+train loss: [1 : 0.59657] [2 : 1.12344] [3 : 0.57213] [4 : 0.85498] [5 : 1.08534] [6 : 0.99859] [7 : 0.78142] [8 : 0.73525] [9 : nan]
+Epoch 48: 	validation acc: 53.79464	validation loss: 1.342644	train loss: 0.843464
+Validation Accuracy: [1 : 72.32143] [2 : 32.14286] [3 : 74.10714] [4 : 58.03571] [5 : 33.03571] [6 : 43.75000] [7 : 50.89286] [8 : 67.85714] [9 : nan]
+validation loss: [1 : 0.62687] [2 : 2.02296] [3 : 0.60480] [4 : 1.11378] [5 : 2.61457] [6 : 1.61267] [7 : 1.20285] [8 : 0.75266] [9 : nan]
+train loss: [1 : 0.64068] [2 : 1.08942] [3 : 0.61328] [4 : 0.86516] [5 : 1.08988] [6 : 0.99861] [7 : 0.74052] [8 : 0.72213] [9 : nan]
+Epoch 49: 	validation acc: 54.01786	validation loss: 1.318897	train loss: 0.844958
+
+Evaluate on train subjects:
+0-shot accuracy on subject 1: 	mean: 72.569444%	std: 8.498082%
+0-shot accuracy on subject 2: 	mean: 52.430556%	std: 13.762445%
+0-shot accuracy on subject 3: 	mean: 73.437500%	std: 9.813252%
+0-shot accuracy on subject 4: 	mean: 61.458333%	std: 10.259227%
+0-shot accuracy on subject 5: 	mean: 50.000000%	std: 12.926743%
+0-shot accuracy on subject 6: 	mean: 57.986111%	std: 13.470253%
+0-shot accuracy on subject 7: 	mean: 70.138889%	std: 13.185304%
+0-shot accuracy on subject 8: 	mean: 72.222222%	std: 12.187451%
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 57.14286]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 1.29397]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.96505]
+Epoch 1: 	validation acc: 57.14286	validation loss: 1.293971	train loss: 0.965049
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 67.85714]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.74579]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.89470]
+Epoch 2: 	validation acc: 67.85714	validation loss: 0.745788	train loss: 0.894696
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 71.42857]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.67312]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.79281]
+Epoch 3: 	validation acc: 71.42857	validation loss: 0.673123	train loss: 0.792808
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 70.53571]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.65113]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.71390]
+Epoch 4: 	validation acc: 70.53571	validation loss: 0.651132	train loss: 0.713899
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 73.21429]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.63833]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.69248]
+Epoch 5: 	validation acc: 73.21429	validation loss: 0.638329	train loss: 0.692479
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 73.21429]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.62391]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.68310]
+Epoch 6: 	validation acc: 73.21429	validation loss: 0.623907	train loss: 0.683099
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 73.21429]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.60866]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.69897]
+Epoch 7: 	validation acc: 73.21429	validation loss: 0.608660	train loss: 0.698971
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 75.89286]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.60404]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.60976]
+Epoch 8: 	validation acc: 75.89286	validation loss: 0.604043	train loss: 0.609762
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 76.78571]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.57944]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.57858]
+Epoch 9: 	validation acc: 76.78571	validation loss: 0.579439	train loss: 0.578584
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 76.78571]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.55931]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.57559]
+Epoch 10: 	validation acc: 76.78571	validation loss: 0.559308	train loss: 0.575595
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 75.00000]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.54372]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.49714]
+Epoch 11: 	validation acc: 75.00000	validation loss: 0.543721	train loss: 0.497136
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 75.00000]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.52448]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.52661]
+Epoch 12: 	validation acc: 75.00000	validation loss: 0.524478	train loss: 0.526614
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 79.46429]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.50653]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.53299]
+Epoch 13: 	validation acc: 79.46429	validation loss: 0.506533	train loss: 0.532992
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 79.46429]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.49584]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.49323]
+Epoch 14: 	validation acc: 79.46429	validation loss: 0.495845	train loss: 0.493234
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 76.78571]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.49167]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.44871]
+Epoch 15: 	validation acc: 76.78571	validation loss: 0.491665	train loss: 0.448707
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 77.67857]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.49051]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.44335]
+Epoch 16: 	validation acc: 77.67857	validation loss: 0.490514	train loss: 0.443351
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 79.46429]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.48610]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.41868]
+Epoch 17: 	validation acc: 79.46429	validation loss: 0.486098	train loss: 0.418684
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 80.35714]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.47894]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.41987]
+Epoch 18: 	validation acc: 80.35714	validation loss: 0.478938	train loss: 0.419867
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 78.57143]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.47047]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.39356]
+Epoch 19: 	validation acc: 78.57143	validation loss: 0.470470	train loss: 0.393563
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 81.25000]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.46071]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.35248]
+Epoch 20: 	validation acc: 81.25000	validation loss: 0.460706	train loss: 0.352483
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 82.14286]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.44951]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.35895]
+Epoch 21: 	validation acc: 82.14286	validation loss: 0.449506	train loss: 0.358946
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 79.46429]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.45510]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.37249]
+Epoch 22: 	validation acc: 79.46429	validation loss: 0.455104	train loss: 0.372490
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 81.25000]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.45127]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.36121]
+Epoch 23: 	validation acc: 81.25000	validation loss: 0.451268	train loss: 0.361206
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 79.46429]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.43966]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.30766]
+Epoch 24: 	validation acc: 79.46429	validation loss: 0.439659	train loss: 0.307657
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 79.46429]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.43943]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.33605]
+Epoch 25: 	validation acc: 79.46429	validation loss: 0.439431	train loss: 0.336047
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 81.25000]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.43315]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.33831]
+Epoch 26: 	validation acc: 81.25000	validation loss: 0.433154	train loss: 0.338307
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 82.14286]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.43561]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.35128]
+Epoch 27: 	validation acc: 82.14286	validation loss: 0.435611	train loss: 0.351281
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 82.14286]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.43792]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.27954]
+Epoch 28: 	validation acc: 82.14286	validation loss: 0.437918	train loss: 0.279536
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 80.35714]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.44202]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.29723]
+Epoch 29: 	validation acc: 80.35714	validation loss: 0.442019	train loss: 0.297230
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 81.25000]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.44918]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.27502]
+Epoch 30: 	validation acc: 81.25000	validation loss: 0.449178	train loss: 0.275016
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 80.35714]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.44208]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.29404]
+Epoch 31: 	validation acc: 80.35714	validation loss: 0.442083	train loss: 0.294037
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 78.57143]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.44363]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.28970]
+Epoch 32: 	validation acc: 78.57143	validation loss: 0.443632	train loss: 0.289696
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 81.25000]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.43099]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.29711]
+Epoch 33: 	validation acc: 81.25000	validation loss: 0.430986	train loss: 0.297112
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 81.25000]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.43199]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.26128]
+Epoch 34: 	validation acc: 81.25000	validation loss: 0.431989	train loss: 0.261280
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 80.35714]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.44367]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.28346]
+Epoch 35: 	validation acc: 80.35714	validation loss: 0.443671	train loss: 0.283456
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 81.25000]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.43693]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.27552]
+Epoch 36: 	validation acc: 81.25000	validation loss: 0.436928	train loss: 0.275519
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 83.03571]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.44203]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.27257]
+Epoch 37: 	validation acc: 83.03571	validation loss: 0.442027	train loss: 0.272567
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 82.14286]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.41911]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.29592]
+Epoch 38: 	validation acc: 82.14286	validation loss: 0.419108	train loss: 0.295924
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 80.35714]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.41849]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.27008]
+Epoch 39: 	validation acc: 80.35714	validation loss: 0.418489	train loss: 0.270085
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 79.46429]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.41009]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.20720]
+Epoch 40: 	validation acc: 79.46429	validation loss: 0.410089	train loss: 0.207204
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 82.14286]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.41716]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.28037]
+Epoch 41: 	validation acc: 82.14286	validation loss: 0.417155	train loss: 0.280371
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 83.92857]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.40077]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.23439]
+Epoch 42: 	validation acc: 83.92857	validation loss: 0.400771	train loss: 0.234388
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 82.14286]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.40044]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.20731]
+Epoch 43: 	validation acc: 82.14286	validation loss: 0.400443	train loss: 0.207312
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 82.14286]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.40020]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.25329]
+Epoch 44: 	validation acc: 82.14286	validation loss: 0.400202	train loss: 0.253287
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 82.14286]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.38626]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.24363]
+Epoch 45: 	validation acc: 82.14286	validation loss: 0.386263	train loss: 0.243634
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 84.82143]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.38953]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.22963]
+Epoch 46: 	validation acc: 84.82143	validation loss: 0.389530	train loss: 0.229627
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 82.14286]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.40380]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.22895]
+Epoch 47: 	validation acc: 82.14286	validation loss: 0.403797	train loss: 0.228947
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 83.03571]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.41198]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.25308]
+Epoch 48: 	validation acc: 83.03571	validation loss: 0.411977	train loss: 0.253078
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 83.03571]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.41838]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.22518]
+Epoch 49: 	validation acc: 83.03571	validation loss: 0.418385	train loss: 0.225184
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 83.03571]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.42399]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.23684]
+Epoch 50: 	validation acc: 83.03571	validation loss: 0.423990	train loss: 0.236841
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 83.03571]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.41216]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.21174]
+Epoch 51: 	validation acc: 83.03571	validation loss: 0.412157	train loss: 0.211737
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 81.25000]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.41097]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.20352]
+Epoch 52: 	validation acc: 81.25000	validation loss: 0.410974	train loss: 0.203518
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 83.92857]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.41782]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.17328]
+Epoch 53: 	validation acc: 83.92857	validation loss: 0.417820	train loss: 0.173278
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 83.92857]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.40903]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.23289]
+Epoch 54: 	validation acc: 83.92857	validation loss: 0.409028	train loss: 0.232894
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 83.03571]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.40924]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.19770]
+Epoch 55: 	validation acc: 83.03571	validation loss: 0.409238	train loss: 0.197704
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 83.03571]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.40891]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.19445]
+Epoch 56: 	validation acc: 83.03571	validation loss: 0.408913	train loss: 0.194451
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 84.82143]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.41733]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.20097]
+Epoch 57: 	validation acc: 84.82143	validation loss: 0.417333	train loss: 0.200967
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 83.92857]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.42157]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.23775]
+Epoch 58: 	validation acc: 83.92857	validation loss: 0.421572	train loss: 0.237751
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 85.71429]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.40016]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.27969]
+Epoch 59: 	validation acc: 85.71429	validation loss: 0.400162	train loss: 0.279693
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 83.92857]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.39571]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.22798]
+Epoch 60: 	validation acc: 83.92857	validation loss: 0.395706	train loss: 0.227982
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 84.82143]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.39994]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.19940]
+Epoch 61: 	validation acc: 84.82143	validation loss: 0.399944	train loss: 0.199402
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 85.71429]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.39317]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.19578]
+Epoch 62: 	validation acc: 85.71429	validation loss: 0.393170	train loss: 0.195779
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 85.71429]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.40267]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.16773]
+Epoch 63: 	validation acc: 85.71429	validation loss: 0.402672	train loss: 0.167729
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 83.92857]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.39811]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.17052]
+Epoch 64: 	validation acc: 83.92857	validation loss: 0.398111	train loss: 0.170524
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 83.03571]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.40486]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.18597]
+Epoch 65: 	validation acc: 83.03571	validation loss: 0.404860	train loss: 0.185973
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 83.03571]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.40556]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.21385]
+Epoch 66: 	validation acc: 83.03571	validation loss: 0.405561	train loss: 0.213850
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 82.14286]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.41134]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.23605]
+Epoch 67: 	validation acc: 82.14286	validation loss: 0.411340	train loss: 0.236049
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 84.82143]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.42704]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.16128]
+Epoch 68: 	validation acc: 84.82143	validation loss: 0.427044	train loss: 0.161280
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 83.92857]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.43469]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.17621]
+Epoch 69: 	validation acc: 83.92857	validation loss: 0.434687	train loss: 0.176211
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 82.14286]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.44934]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.19949]
+Epoch 70: 	validation acc: 82.14286	validation loss: 0.449336	train loss: 0.199492
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 82.14286]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.46541]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.20229]
+Epoch 71: 	validation acc: 82.14286	validation loss: 0.465407	train loss: 0.202290
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 83.03571]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.46171]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.13112]
+Epoch 72: 	validation acc: 83.03571	validation loss: 0.461705	train loss: 0.131118
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 84.82143]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.44981]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.15465]
+Epoch 73: 	validation acc: 84.82143	validation loss: 0.449811	train loss: 0.154646
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 85.71429]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.45158]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.14913]
+Epoch 74: 	validation acc: 85.71429	validation loss: 0.451578	train loss: 0.149131
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 83.92857]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.43249]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.14750]
+Epoch 75: 	validation acc: 83.92857	validation loss: 0.432490	train loss: 0.147502
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 84.82143]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.43905]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.16843]
+Epoch 76: 	validation acc: 84.82143	validation loss: 0.439051	train loss: 0.168429
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 83.92857]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.44486]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.12194]
+Epoch 77: 	validation acc: 83.92857	validation loss: 0.444863	train loss: 0.121935
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 84.82143]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.44568]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.15019]
+Epoch 78: 	validation acc: 84.82143	validation loss: 0.445684	train loss: 0.150188
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 83.03571]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.44246]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.18429]
+Epoch 79: 	validation acc: 83.03571	validation loss: 0.442455	train loss: 0.184294
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 83.03571]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.44436]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.19161]
+Epoch 80: 	validation acc: 83.03571	validation loss: 0.444361	train loss: 0.191611
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 84.82143]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.43630]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.16293]
+Epoch 81: 	validation acc: 84.82143	validation loss: 0.436297	train loss: 0.162930
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 83.92857]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.43206]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.16246]
+Epoch 82: 	validation acc: 83.92857	validation loss: 0.432063	train loss: 0.162459
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 87.50000]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.43205]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.15967]
+Epoch 83: 	validation acc: 87.50000	validation loss: 0.432054	train loss: 0.159673
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 85.71429]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.47053]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.16818]
+Epoch 84: 	validation acc: 85.71429	validation loss: 0.470526	train loss: 0.168181
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 85.71429]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.47066]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.13991]
+Epoch 85: 	validation acc: 85.71429	validation loss: 0.470659	train loss: 0.139907
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 84.82143]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.44235]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.20221]
+Epoch 86: 	validation acc: 84.82143	validation loss: 0.442349	train loss: 0.202214
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 83.03571]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.42923]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.19258]
+Epoch 87: 	validation acc: 83.03571	validation loss: 0.429230	train loss: 0.192576
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 83.92857]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.44544]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.17047]
+Epoch 88: 	validation acc: 83.92857	validation loss: 0.445440	train loss: 0.170472
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 84.82143]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.44041]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.13117]
+Epoch 89: 	validation acc: 84.82143	validation loss: 0.440409	train loss: 0.131166
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 85.71429]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.42896]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.17286]
+Epoch 90: 	validation acc: 85.71429	validation loss: 0.428955	train loss: 0.172861
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 86.60714]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.41129]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.14608]
+Epoch 91: 	validation acc: 86.60714	validation loss: 0.411289	train loss: 0.146081
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 85.71429]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.40517]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.12208]
+Epoch 92: 	validation acc: 85.71429	validation loss: 0.405166	train loss: 0.122081
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 84.82143]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.42488]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.14361]
+Epoch 93: 	validation acc: 84.82143	validation loss: 0.424877	train loss: 0.143610
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 86.60714]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.41545]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.16081]
+Epoch 94: 	validation acc: 86.60714	validation loss: 0.415454	train loss: 0.160812
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 85.71429]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.42464]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.14649]
+Epoch 95: 	validation acc: 85.71429	validation loss: 0.424638	train loss: 0.146485
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 86.60714]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.43266]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.14589]
+Epoch 96: 	validation acc: 86.60714	validation loss: 0.432663	train loss: 0.145893
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 86.60714]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.43639]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.12819]
+Epoch 97: 	validation acc: 86.60714	validation loss: 0.436390	train loss: 0.128189
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 84.82143]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.44179]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.18975]
+Epoch 98: 	validation acc: 84.82143	validation loss: 0.441788	train loss: 0.189751
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 84.82143]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.45329]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.13585]
+Epoch 99: 	validation acc: 84.82143	validation loss: 0.453290	train loss: 0.135849
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 85.71429]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.45745]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.11478]
+Epoch 100: 	validation acc: 85.71429	validation loss: 0.457455	train loss: 0.114777
+
+Reptile
+episode: 0	finetune acc: 18.75000		test acc: 27.08333
+episode: 50	finetune acc: 41.25000		test acc: 47.91667
+episode: 100	finetune acc: 36.25000		test acc: 56.25000
+episode: 150	finetune acc: 36.25000		test acc: 47.91667
+episode: 200	finetune acc: 58.75000		test acc: 52.08333
+episode: 250	finetune acc: 46.25000		test acc: 58.33333
+episode: 300	finetune acc: 58.75000		test acc: 52.08333
+episode: 350	finetune acc: 56.25000		test acc: 50.00000
+episode: 400	finetune acc: 56.25000		test acc: 56.25000
+episode: 450	finetune acc: 50.00000		test acc: 45.83333
+episode: 500	finetune acc: 52.50000		test acc: 64.58333
+episode: 550	finetune acc: 42.50000		test acc: 56.25000
+episode: 600	finetune acc: 56.25000		test acc: 70.83333
+episode: 650	finetune acc: 55.00000		test acc: 62.50000
+episode: 700	finetune acc: 61.25000		test acc: 56.25000
+episode: 750	finetune acc: 46.25000		test acc: 58.33333
+episode: 800	finetune acc: 67.50000		test acc: 62.50000
+episode: 850	finetune acc: 53.75000		test acc: 62.50000
+episode: 900	finetune acc: 53.75000		test acc: 62.50000
+episode: 950	finetune acc: 58.75000		test acc: 66.66667
+episode: 1000	finetune acc: 52.50000		test acc: 56.25000
+episode: 1050	finetune acc: 60.00000		test acc: 68.75000
+episode: 1100	finetune acc: 60.00000		test acc: 58.33333
+episode: 1150	finetune acc: 60.00000		test acc: 56.25000
+episode: 1200	finetune acc: 58.75000		test acc: 62.50000
+episode: 1250	finetune acc: 62.50000		test acc: 64.58333
+episode: 1300	finetune acc: 50.00000		test acc: 62.50000
+episode: 1350	finetune acc: 57.50000		test acc: 43.75000
+episode: 1400	finetune acc: 57.50000		test acc: 56.25000
+episode: 1450	finetune acc: 50.00000		test acc: 64.58333
+episode: 1500	finetune acc: 48.75000		test acc: 60.41667
+episode: 1550	finetune acc: 52.50000		test acc: 58.33333
+episode: 1600	finetune acc: 53.75000		test acc: 60.41667
+episode: 1650	finetune acc: 65.00000		test acc: 62.50000
+episode: 1700	finetune acc: 55.00000		test acc: 60.41667
+episode: 1750	finetune acc: 61.25000		test acc: 56.25000
+episode: 1800	finetune acc: 57.50000		test acc: 62.50000
+episode: 1850	finetune acc: 57.50000		test acc: 64.58333
+episode: 1900	finetune acc: 56.25000		test acc: 54.16667
+episode: 1950	finetune acc: 66.25000		test acc: 50.00000
+episode: 2000	finetune acc: 55.00000		test acc: 62.50000
+episode: 2050	finetune acc: 61.25000		test acc: 50.00000
+episode: 2100	finetune acc: 53.75000		test acc: 72.91667
+episode: 2150	finetune acc: 63.75000		test acc: 64.58333
+episode: 2200	finetune acc: 62.50000		test acc: 75.00000
+episode: 2250	finetune acc: 70.00000		test acc: 66.66667
+episode: 2300	finetune acc: 56.25000		test acc: 56.25000
+episode: 2350	finetune acc: 56.25000		test acc: 47.91667
+episode: 2400	finetune acc: 55.00000		test acc: 56.25000
+episode: 2450	finetune acc: 61.25000		test acc: 58.33333
+episode: 2500	finetune acc: 68.75000		test acc: 45.83333
+episode: 2550	finetune acc: 60.00000		test acc: 54.16667
+episode: 2600	finetune acc: 67.50000		test acc: 64.58333
+episode: 2650	finetune acc: 60.00000		test acc: 50.00000
+episode: 2700	finetune acc: 71.25000		test acc: 56.25000
+episode: 2750	finetune acc: 73.75000		test acc: 56.25000
+episode: 2800	finetune acc: 51.25000		test acc: 58.33333
+episode: 2850	finetune acc: 51.25000		test acc: 66.66667
+episode: 2900	finetune acc: 62.50000		test acc: 60.41667
+episode: 2950	finetune acc: 53.75000		test acc: 62.50000
+episode: 3000	finetune acc: 62.50000		test acc: 68.75000
+episode: 3050	finetune acc: 51.25000		test acc: 54.16667
+episode: 3100	finetune acc: 55.00000		test acc: 56.25000
+episode: 3150	finetune acc: 63.75000		test acc: 60.41667
+episode: 3200	finetune acc: 48.75000		test acc: 66.66667
+episode: 3250	finetune acc: 66.25000		test acc: 70.83333
+episode: 3300	finetune acc: 63.75000		test acc: 66.66667
+episode: 3350	finetune acc: 63.75000		test acc: 54.16667
+episode: 3400	finetune acc: 62.50000		test acc: 72.91667
+episode: 3450	finetune acc: 63.75000		test acc: 70.83333
+episode: 3500	finetune acc: 53.75000		test acc: 60.41667
+episode: 3550	finetune acc: 66.25000		test acc: 60.41667
+episode: 3600	finetune acc: 63.75000		test acc: 62.50000
+episode: 3650	finetune acc: 61.25000		test acc: 56.25000
+episode: 3700	finetune acc: 71.25000		test acc: 58.33333
+episode: 3750	finetune acc: 66.25000		test acc: 66.66667
+episode: 3800	finetune acc: 58.75000		test acc: 60.41667
+episode: 3850	finetune acc: 55.00000		test acc: 66.66667
+episode: 3900	finetune acc: 67.50000		test acc: 62.50000
+episode: 3950	finetune acc: 67.50000		test acc: 66.66667
+episode: 4000	finetune acc: 70.00000		test acc: 50.00000
+episode: 4050	finetune acc: 65.00000		test acc: 66.66667
+episode: 4100	finetune acc: 70.00000		test acc: 60.41667
+episode: 4150	finetune acc: 53.75000		test acc: 60.41667
+episode: 4200	finetune acc: 58.75000		test acc: 68.75000
+episode: 4250	finetune acc: 66.25000		test acc: 66.66667
+episode: 4300	finetune acc: 61.25000		test acc: 60.41667
+episode: 4350	finetune acc: 57.50000		test acc: 54.16667
+episode: 4400	finetune acc: 62.50000		test acc: 62.50000
+episode: 4450	finetune acc: 55.00000		test acc: 62.50000
+episode: 4500	finetune acc: 60.00000		test acc: 58.33333
+episode: 4550	finetune acc: 70.00000		test acc: 56.25000
+episode: 4600	finetune acc: 66.25000		test acc: 45.83333
+episode: 4650	finetune acc: 62.50000		test acc: 60.41667
+episode: 4700	finetune acc: 65.00000		test acc: 58.33333
+episode: 4750	finetune acc: 65.00000		test acc: 66.66667
+episode: 4800	finetune acc: 61.25000		test acc: 62.50000
+episode: 4850	finetune acc: 63.75000		test acc: 60.41667
+episode: 4900	finetune acc: 57.50000		test acc: 45.83333
+episode: 4950	finetune acc: 65.00000		test acc: 52.08333
+episode: 5000	finetune acc: 61.25000		test acc: 53.12500
+episode: 5050	finetune acc: 55.00000		test acc: 53.12500
+episode: 5100	finetune acc: 57.50000		test acc: 64.06250
+episode: 5150	finetune acc: 62.50000		test acc: 57.81250
+episode: 5200	finetune acc: 63.75000		test acc: 56.25000
+episode: 5250	finetune acc: 53.75000		test acc: 67.18750
+episode: 5300	finetune acc: 63.75000		test acc: 59.37500
+episode: 5350	finetune acc: 67.50000		test acc: 65.62500
+episode: 5400	finetune acc: 61.25000		test acc: 54.68750
+episode: 5450	finetune acc: 66.25000		test acc: 65.62500
+episode: 5500	finetune acc: 68.75000		test acc: 59.37500
+episode: 5550	finetune acc: 67.50000		test acc: 59.37500
+episode: 5600	finetune acc: 48.75000		test acc: 59.37500
+episode: 5650	finetune acc: 68.75000		test acc: 65.62500
+episode: 5700	finetune acc: 58.75000		test acc: 65.62500
+episode: 5750	finetune acc: 71.25000		test acc: 62.50000
+episode: 5800	finetune acc: 71.25000		test acc: 54.68750
+episode: 5850	finetune acc: 62.50000		test acc: 70.31250
+episode: 5900	finetune acc: 62.50000		test acc: 60.93750
+episode: 5950	finetune acc: 68.75000		test acc: 60.93750
+episode: 6000	finetune acc: 66.25000		test acc: 68.75000
+episode: 6050	finetune acc: 66.25000		test acc: 59.37500
+episode: 6100	finetune acc: 66.25000		test acc: 62.50000
+episode: 6150	finetune acc: 71.25000		test acc: 56.25000
+episode: 6200	finetune acc: 66.25000		test acc: 57.81250
+episode: 6250	finetune acc: 61.25000		test acc: 65.62500
+episode: 6300	finetune acc: 56.25000		test acc: 60.93750
+episode: 6350	finetune acc: 60.00000		test acc: 59.37500
+episode: 6400	finetune acc: 80.00000		test acc: 57.81250
+episode: 6450	finetune acc: 56.25000		test acc: 62.50000
+episode: 6500	finetune acc: 61.25000		test acc: 62.50000
+episode: 6550	finetune acc: 63.75000		test acc: 70.31250
+episode: 6600	finetune acc: 72.50000		test acc: 46.87500
+episode: 6650	finetune acc: 66.25000		test acc: 50.00000
+episode: 6700	finetune acc: 61.25000		test acc: 59.37500
+episode: 6750	finetune acc: 80.00000		test acc: 57.81250
+episode: 6800	finetune acc: 63.75000		test acc: 67.18750
+episode: 6850	finetune acc: 56.25000		test acc: 53.12500
+episode: 6900	finetune acc: 63.75000		test acc: 62.50000
+episode: 6950	finetune acc: 65.00000		test acc: 59.37500
+episode: 7000	finetune acc: 61.25000		test acc: 54.68750
+episode: 7050	finetune acc: 66.25000		test acc: 67.18750
+episode: 7100	finetune acc: 75.00000		test acc: 62.50000
+episode: 7150	finetune acc: 72.50000		test acc: 48.43750
+episode: 7200	finetune acc: 53.75000		test acc: 64.06250
+episode: 7250	finetune acc: 70.00000		test acc: 53.12500
+episode: 7300	finetune acc: 68.75000		test acc: 62.50000
+episode: 7350	finetune acc: 68.75000		test acc: 57.81250
+episode: 7400	finetune acc: 70.00000		test acc: 60.93750
+episode: 7450	finetune acc: 68.75000		test acc: 64.06250
+episode: 7500	finetune acc: 72.50000		test acc: 64.06250
+episode: 7550	finetune acc: 75.00000		test acc: 62.50000
+episode: 7600	finetune acc: 61.25000		test acc: 71.87500
+episode: 7650	finetune acc: 66.25000		test acc: 64.06250
+episode: 7700	finetune acc: 62.50000		test acc: 56.25000
+episode: 7750	finetune acc: 78.75000		test acc: 48.43750
+episode: 7800	finetune acc: 62.50000		test acc: 64.06250
+episode: 7850	finetune acc: 63.75000		test acc: 56.25000
+episode: 7900	finetune acc: 63.75000		test acc: 64.06250
+episode: 7950	finetune acc: 67.50000		test acc: 50.00000
+episode: 8000	finetune acc: 65.00000		test acc: 60.93750
+episode: 8050	finetune acc: 57.50000		test acc: 50.00000
+episode: 8100	finetune acc: 63.75000		test acc: 70.31250
+episode: 8150	finetune acc: 53.75000		test acc: 51.56250
+episode: 8200	finetune acc: 61.25000		test acc: 65.62500
+episode: 8250	finetune acc: 60.00000		test acc: 60.93750
+episode: 8300	finetune acc: 73.75000		test acc: 65.62500
+episode: 8350	finetune acc: 72.50000		test acc: 53.12500
+episode: 8400	finetune acc: 57.50000		test acc: 60.93750
+episode: 8450	finetune acc: 63.75000		test acc: 50.00000
+episode: 8500	finetune acc: 65.00000		test acc: 62.50000
+episode: 8550	finetune acc: 73.75000		test acc: 54.68750
+episode: 8600	finetune acc: 68.75000		test acc: 60.93750
+episode: 8650	finetune acc: 57.50000		test acc: 51.56250
+episode: 8700	finetune acc: 55.00000		test acc: 60.93750
+episode: 8750	finetune acc: 68.75000		test acc: 59.37500
+episode: 8800	finetune acc: 72.50000		test acc: 67.18750
+episode: 8850	finetune acc: 66.25000		test acc: 62.50000
+episode: 8900	finetune acc: 61.25000		test acc: 62.50000
+episode: 8950	finetune acc: 72.50000		test acc: 54.68750
+episode: 9000	finetune acc: 70.00000		test acc: 57.81250
+episode: 9050	finetune acc: 65.00000		test acc: 64.06250
+episode: 9100	finetune acc: 76.25000		test acc: 60.93750
+episode: 9150	finetune acc: 73.75000		test acc: 68.75000
+episode: 9200	finetune acc: 76.25000		test acc: 51.56250
+episode: 9250	finetune acc: 76.25000		test acc: 70.31250
+episode: 9300	finetune acc: 61.25000		test acc: 65.62500
+episode: 9350	finetune acc: 57.50000		test acc: 56.25000
+episode: 9400	finetune acc: 77.50000		test acc: 57.81250
+episode: 9450	finetune acc: 66.25000		test acc: 60.93750
+episode: 9500	finetune acc: 66.25000		test acc: 57.81250
+episode: 9550	finetune acc: 70.00000		test acc: 59.37500
+episode: 9600	finetune acc: 70.00000		test acc: 59.37500
+episode: 9650	finetune acc: 71.25000		test acc: 64.06250
+episode: 9700	finetune acc: 70.00000		test acc: 54.68750
+episode: 9750	finetune acc: 61.25000		test acc: 67.18750
+episode: 9800	finetune acc: 80.00000		test acc: 59.37500
+episode: 9850	finetune acc: 58.75000		test acc: 70.31250
+episode: 9900	finetune acc: 67.50000		test acc: 60.93750
+episode: 9950	finetune acc: 57.50000		test acc: 59.37500
+episode: 10000	finetune acc: 65.00000		test acc: 52.50000
+episode: 10050	finetune acc: 61.25000		test acc: 58.75000
+episode: 10100	finetune acc: 65.00000		test acc: 61.25000
+episode: 10150	finetune acc: 78.75000		test acc: 60.00000
+episode: 10200	finetune acc: 67.50000		test acc: 60.00000
+episode: 10250	finetune acc: 73.75000		test acc: 63.75000
+episode: 10300	finetune acc: 62.50000		test acc: 57.50000
+episode: 10350	finetune acc: 70.00000		test acc: 65.00000
+episode: 10400	finetune acc: 65.00000		test acc: 63.75000
+episode: 10450	finetune acc: 68.75000		test acc: 67.50000
+episode: 10500	finetune acc: 57.50000		test acc: 53.75000
+episode: 10550	finetune acc: 57.50000		test acc: 63.75000
+episode: 10600	finetune acc: 65.00000		test acc: 58.75000
+episode: 10650	finetune acc: 76.25000		test acc: 65.00000
+episode: 10700	finetune acc: 83.75000		test acc: 47.50000
+episode: 10750	finetune acc: 62.50000		test acc: 61.25000
+episode: 10800	finetune acc: 70.00000		test acc: 61.25000
+episode: 10850	finetune acc: 68.75000		test acc: 55.00000
+episode: 10900	finetune acc: 68.75000		test acc: 60.00000
+episode: 10950	finetune acc: 70.00000		test acc: 63.75000
+episode: 11000	finetune acc: 63.75000		test acc: 51.25000
+episode: 11050	finetune acc: 66.25000		test acc: 60.00000
+episode: 11100	finetune acc: 66.25000		test acc: 66.25000
+episode: 11150	finetune acc: 65.00000		test acc: 66.25000
+episode: 11200	finetune acc: 72.50000		test acc: 51.25000
+episode: 11250	finetune acc: 63.75000		test acc: 55.00000
+episode: 11300	finetune acc: 67.50000		test acc: 65.00000
+episode: 11350	finetune acc: 65.00000		test acc: 62.50000
+episode: 11400	finetune acc: 77.50000		test acc: 68.75000
+episode: 11450	finetune acc: 63.75000		test acc: 56.25000
+episode: 11500	finetune acc: 68.75000		test acc: 61.25000
+episode: 11550	finetune acc: 72.50000		test acc: 57.50000
+episode: 11600	finetune acc: 68.75000		test acc: 58.75000
+episode: 11650	finetune acc: 70.00000		test acc: 65.00000
+episode: 11700	finetune acc: 70.00000		test acc: 61.25000
+episode: 11750	finetune acc: 71.25000		test acc: 70.00000
+episode: 11800	finetune acc: 63.75000		test acc: 63.75000
+episode: 11850	finetune acc: 68.75000		test acc: 57.50000
+episode: 11900	finetune acc: 76.25000		test acc: 58.75000
+episode: 11950	finetune acc: 65.00000		test acc: 63.75000
+episode: 12000	finetune acc: 67.50000		test acc: 53.75000
+episode: 12050	finetune acc: 66.25000		test acc: 65.00000
+episode: 12100	finetune acc: 70.00000		test acc: 56.25000
+episode: 12150	finetune acc: 72.50000		test acc: 56.25000
+episode: 12200	finetune acc: 67.50000		test acc: 52.50000
+episode: 12250	finetune acc: 73.75000		test acc: 66.25000
+episode: 12300	finetune acc: 61.25000		test acc: 60.00000
+episode: 12350	finetune acc: 70.00000		test acc: 72.50000
+episode: 12400	finetune acc: 66.25000		test acc: 68.75000
+episode: 12450	finetune acc: 73.75000		test acc: 55.00000
+episode: 12500	finetune acc: 62.50000		test acc: 56.25000
+episode: 12550	finetune acc: 67.50000		test acc: 65.00000
+episode: 12600	finetune acc: 75.00000		test acc: 68.75000
+episode: 12650	finetune acc: 66.25000		test acc: 56.25000
+episode: 12700	finetune acc: 82.50000		test acc: 62.50000
+episode: 12750	finetune acc: 66.25000		test acc: 57.50000
+episode: 12800	finetune acc: 60.00000		test acc: 58.75000
+episode: 12850	finetune acc: 70.00000		test acc: 61.25000
+episode: 12900	finetune acc: 62.50000		test acc: 61.25000
+episode: 12950	finetune acc: 65.00000		test acc: 62.50000
+episode: 13000	finetune acc: 67.50000		test acc: 61.25000
+episode: 13050	finetune acc: 71.25000		test acc: 62.50000
+episode: 13100	finetune acc: 70.00000		test acc: 57.50000
+episode: 13150	finetune acc: 65.00000		test acc: 67.50000
+episode: 13200	finetune acc: 72.50000		test acc: 63.75000
+episode: 13250	finetune acc: 70.00000		test acc: 56.25000
+episode: 13300	finetune acc: 65.00000		test acc: 63.75000
+episode: 13350	finetune acc: 73.75000		test acc: 66.25000
+episode: 13400	finetune acc: 68.75000		test acc: 62.50000
+episode: 13450	finetune acc: 71.25000		test acc: 58.75000
+episode: 13500	finetune acc: 76.25000		test acc: 57.50000
+episode: 13550	finetune acc: 77.50000		test acc: 61.25000
+episode: 13600	finetune acc: 85.00000		test acc: 61.25000
+episode: 13650	finetune acc: 85.00000		test acc: 60.00000
+episode: 13700	finetune acc: 60.00000		test acc: 57.50000
+episode: 13750	finetune acc: 68.75000		test acc: 60.00000
+episode: 13800	finetune acc: 61.25000		test acc: 55.00000
+episode: 13850	finetune acc: 67.50000		test acc: 63.75000
+episode: 13900	finetune acc: 63.75000		test acc: 62.50000
+episode: 13950	finetune acc: 67.50000		test acc: 61.25000
+episode: 14000	finetune acc: 75.00000		test acc: 56.25000
+episode: 14050	finetune acc: 70.00000		test acc: 55.00000
+episode: 14100	finetune acc: 67.50000		test acc: 50.00000
+episode: 14150	finetune acc: 72.50000		test acc: 63.75000
+episode: 14200	finetune acc: 68.75000		test acc: 65.00000
+episode: 14250	finetune acc: 78.75000		test acc: 60.00000
+episode: 14300	finetune acc: 66.25000		test acc: 70.00000
+episode: 14350	finetune acc: 68.75000		test acc: 66.25000
+episode: 14400	finetune acc: 75.00000		test acc: 60.00000
+episode: 14450	finetune acc: 73.75000		test acc: 60.00000
+episode: 14500	finetune acc: 62.50000		test acc: 68.75000
+episode: 14550	finetune acc: 63.75000		test acc: 58.75000
+episode: 14600	finetune acc: 65.00000		test acc: 55.00000
+episode: 14650	finetune acc: 56.25000		test acc: 62.50000
+episode: 14700	finetune acc: 72.50000		test acc: 60.00000
+episode: 14750	finetune acc: 65.00000		test acc: 63.75000
+episode: 14800	finetune acc: 57.50000		test acc: 63.75000
+episode: 14850	finetune acc: 71.25000		test acc: 56.25000
+episode: 14900	finetune acc: 71.25000		test acc: 52.50000
+episode: 14950	finetune acc: 73.75000		test acc: 67.50000
+episode: 15000	finetune acc: 70.00000		test acc: 64.58333
+episode: 15050	finetune acc: 75.00000		test acc: 57.29167
+episode: 15100	finetune acc: 71.25000		test acc: 62.50000
+episode: 15150	finetune acc: 65.00000		test acc: 59.37500
+episode: 15200	finetune acc: 57.50000		test acc: 65.62500
+episode: 15250	finetune acc: 75.00000		test acc: 65.62500
+episode: 15300	finetune acc: 65.00000		test acc: 61.45833
+episode: 15350	finetune acc: 71.25000		test acc: 72.91667
+episode: 15400	finetune acc: 68.75000		test acc: 56.25000
+episode: 15450	finetune acc: 73.75000		test acc: 62.50000
+episode: 15500	finetune acc: 77.50000		test acc: 67.70833
+episode: 15550	finetune acc: 76.25000		test acc: 65.62500
+episode: 15600	finetune acc: 52.50000		test acc: 61.45833
+episode: 15650	finetune acc: 60.00000		test acc: 65.62500
+episode: 15700	finetune acc: 77.50000		test acc: 60.41667
+episode: 15750	finetune acc: 75.00000		test acc: 64.58333
+episode: 15800	finetune acc: 68.75000		test acc: 66.66667
+episode: 15850	finetune acc: 62.50000		test acc: 61.45833
+episode: 15900	finetune acc: 57.50000		test acc: 58.33333
+episode: 15950	finetune acc: 62.50000		test acc: 59.37500
+episode: 16000	finetune acc: 75.00000		test acc: 67.70833
+episode: 16050	finetune acc: 63.75000		test acc: 54.16667
+episode: 16100	finetune acc: 80.00000		test acc: 60.41667
+episode: 16150	finetune acc: 68.75000		test acc: 60.41667
+episode: 16200	finetune acc: 71.25000		test acc: 59.37500
+episode: 16250	finetune acc: 63.75000		test acc: 67.70833
+episode: 16300	finetune acc: 71.25000		test acc: 61.45833
+episode: 16350	finetune acc: 73.75000		test acc: 55.20833
+episode: 16400	finetune acc: 67.50000		test acc: 53.12500
+episode: 16450	finetune acc: 67.50000		test acc: 55.20833
+episode: 16500	finetune acc: 71.25000		test acc: 57.29167
+episode: 16550	finetune acc: 73.75000		test acc: 58.33333
+episode: 16600	finetune acc: 71.25000		test acc: 62.50000
+episode: 16650	finetune acc: 70.00000		test acc: 62.50000
+episode: 16700	finetune acc: 72.50000		test acc: 54.16667
+episode: 16750	finetune acc: 73.75000		test acc: 66.66667
+episode: 16800	finetune acc: 73.75000		test acc: 66.66667
+episode: 16850	finetune acc: 72.50000		test acc: 55.20833
+episode: 16900	finetune acc: 73.75000		test acc: 60.41667
+episode: 16950	finetune acc: 61.25000		test acc: 59.37500
+episode: 17000	finetune acc: 75.00000		test acc: 61.45833
+episode: 17050	finetune acc: 71.25000		test acc: 60.41667
+episode: 17100	finetune acc: 80.00000		test acc: 57.29167
+episode: 17150	finetune acc: 71.25000		test acc: 61.45833
+episode: 17200	finetune acc: 61.25000		test acc: 59.37500
+episode: 17250	finetune acc: 70.00000		test acc: 54.16667
+episode: 17300	finetune acc: 68.75000		test acc: 62.50000
+episode: 17350	finetune acc: 63.75000		test acc: 59.37500
+episode: 17400	finetune acc: 71.25000		test acc: 59.37500
+episode: 17450	finetune acc: 66.25000		test acc: 64.58333
+episode: 17500	finetune acc: 75.00000		test acc: 63.54167
+episode: 17550	finetune acc: 72.50000		test acc: 56.25000
+episode: 17600	finetune acc: 73.75000		test acc: 60.41667
+episode: 17650	finetune acc: 58.75000		test acc: 51.04167
+episode: 17700	finetune acc: 73.75000		test acc: 56.25000
+episode: 17750	finetune acc: 83.75000		test acc: 57.29167
+episode: 17800	finetune acc: 73.75000		test acc: 64.58333
+episode: 17850	finetune acc: 71.25000		test acc: 63.54167
+episode: 17900	finetune acc: 68.75000		test acc: 58.33333
+episode: 17950	finetune acc: 62.50000		test acc: 62.50000
+episode: 18000	finetune acc: 71.25000		test acc: 58.33333
+episode: 18050	finetune acc: 71.25000		test acc: 63.54167
+episode: 18100	finetune acc: 57.50000		test acc: 57.29167
+episode: 18150	finetune acc: 73.75000		test acc: 60.41667
+episode: 18200	finetune acc: 71.25000		test acc: 55.20833
+episode: 18250	finetune acc: 71.25000		test acc: 55.20833
+episode: 18300	finetune acc: 71.25000		test acc: 62.50000
+episode: 18350	finetune acc: 70.00000		test acc: 64.58333
+episode: 18400	finetune acc: 78.75000		test acc: 62.50000
+episode: 18450	finetune acc: 73.75000		test acc: 55.20833
+episode: 18500	finetune acc: 66.25000		test acc: 52.08333
+episode: 18550	finetune acc: 78.75000		test acc: 58.33333
+episode: 18600	finetune acc: 68.75000		test acc: 58.33333
+episode: 18650	finetune acc: 70.00000		test acc: 54.16667
+episode: 18700	finetune acc: 72.50000		test acc: 65.62500
+episode: 18750	finetune acc: 67.50000		test acc: 64.58333
+episode: 18800	finetune acc: 62.50000		test acc: 64.58333
+episode: 18850	finetune acc: 70.00000		test acc: 60.41667
+episode: 18900	finetune acc: 67.50000		test acc: 61.45833
+episode: 18950	finetune acc: 80.00000		test acc: 51.04167
+episode: 19000	finetune acc: 75.00000		test acc: 55.20833
+episode: 19050	finetune acc: 67.50000		test acc: 56.25000
+episode: 19100	finetune acc: 68.75000		test acc: 60.41667
+episode: 19150	finetune acc: 61.25000		test acc: 61.45833
+episode: 19200	finetune acc: 68.75000		test acc: 58.33333
+episode: 19250	finetune acc: 72.50000		test acc: 56.25000
+episode: 19300	finetune acc: 73.75000		test acc: 64.58333
+episode: 19350	finetune acc: 75.00000		test acc: 66.66667
+episode: 19400	finetune acc: 73.75000		test acc: 54.16667
+episode: 19450	finetune acc: 65.00000		test acc: 52.08333
+episode: 19500	finetune acc: 67.50000		test acc: 55.20833
+episode: 19550	finetune acc: 70.00000		test acc: 66.66667
+episode: 19600	finetune acc: 73.75000		test acc: 54.16667
+episode: 19650	finetune acc: 66.25000		test acc: 67.70833
+episode: 19700	finetune acc: 72.50000		test acc: 51.04167
+episode: 19750	finetune acc: 75.00000		test acc: 51.04167
+episode: 19800	finetune acc: 67.50000		test acc: 57.29167
+episode: 19850	finetune acc: 70.00000		test acc: 53.12500
+episode: 19900	finetune acc: 73.75000		test acc: 47.91667
+episode: 19950	finetune acc: 77.50000		test acc: 62.50000
+
+Evaluate on train subjects:
+0-shot accuracy on subject 1: 	mean: 76.909722%	std: 9.751630%
+0-shot accuracy on subject 2: 	mean: 56.423611%	std: 12.367888%
+0-shot accuracy on subject 3: 	mean: 82.291667%	std: 8.398185%
+0-shot accuracy on subject 4: 	mean: 67.187500%	std: 11.060813%
+0-shot accuracy on subject 5: 	mean: 58.159722%	std: 13.726261%
+0-shot accuracy on subject 6: 	mean: 63.368056%	std: 11.330037%
+0-shot accuracy on subject 7: 	mean: 75.000000%	std: 9.991316%
+0-shot accuracy on subject 8: 	mean: 75.000000%	std: 9.432693%
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 61.60714]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 1.05589]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.95183]
+Epoch 1: 	validation acc: 61.60714	validation loss: 1.055888	train loss: 0.951829
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 76.78571]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.69404]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.85866]
+Epoch 2: 	validation acc: 76.78571	validation loss: 0.694039	train loss: 0.858664
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 75.89286]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.66730]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.77857]
+Epoch 3: 	validation acc: 75.89286	validation loss: 0.667304	train loss: 0.778573
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 75.89286]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.63737]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.68860]
+Epoch 4: 	validation acc: 75.89286	validation loss: 0.637369	train loss: 0.688603
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 77.67857]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.61988]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.64614]
+Epoch 5: 	validation acc: 77.67857	validation loss: 0.619880	train loss: 0.646140
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 76.78571]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.59606]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.62046]
+Epoch 6: 	validation acc: 76.78571	validation loss: 0.596064	train loss: 0.620462
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 78.57143]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.57777]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.60828]
+Epoch 7: 	validation acc: 78.57143	validation loss: 0.577771	train loss: 0.608276
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 78.57143]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.55683]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.57757]
+Epoch 8: 	validation acc: 78.57143	validation loss: 0.556829	train loss: 0.577568
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 79.46429]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.53934]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.52518]
+Epoch 9: 	validation acc: 79.46429	validation loss: 0.539335	train loss: 0.525184
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 79.46429]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.51810]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.51436]
+Epoch 10: 	validation acc: 79.46429	validation loss: 0.518096	train loss: 0.514361
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 77.67857]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.50195]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.47273]
+Epoch 11: 	validation acc: 77.67857	validation loss: 0.501948	train loss: 0.472732
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 79.46429]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.49773]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.45167]
+Epoch 12: 	validation acc: 79.46429	validation loss: 0.497731	train loss: 0.451668
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 78.57143]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.50030]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.43785]
+Epoch 13: 	validation acc: 78.57143	validation loss: 0.500297	train loss: 0.437851
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 78.57143]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.49742]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.40813]
+Epoch 14: 	validation acc: 78.57143	validation loss: 0.497422	train loss: 0.408131
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 78.57143]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.49651]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.39897]
+Epoch 15: 	validation acc: 78.57143	validation loss: 0.496505	train loss: 0.398972
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 77.67857]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.49259]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.39385]
+Epoch 16: 	validation acc: 77.67857	validation loss: 0.492590	train loss: 0.393853
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 77.67857]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.49335]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.36074]
+Epoch 17: 	validation acc: 77.67857	validation loss: 0.493348	train loss: 0.360739
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 77.67857]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.49196]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.37817]
+Epoch 18: 	validation acc: 77.67857	validation loss: 0.491963	train loss: 0.378169
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 78.57143]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.49055]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.35776]
+Epoch 19: 	validation acc: 78.57143	validation loss: 0.490547	train loss: 0.357763
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 76.78571]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.49580]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.35969]
+Epoch 20: 	validation acc: 76.78571	validation loss: 0.495805	train loss: 0.359693
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 78.57143]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.48167]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.28625]
+Epoch 21: 	validation acc: 78.57143	validation loss: 0.481671	train loss: 0.286255
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 79.46429]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.46868]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.30691]
+Epoch 22: 	validation acc: 79.46429	validation loss: 0.468684	train loss: 0.306909
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 79.46429]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.46445]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.31339]
+Epoch 23: 	validation acc: 79.46429	validation loss: 0.464450	train loss: 0.313386
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 79.46429]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.47134]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.29082]
+Epoch 24: 	validation acc: 79.46429	validation loss: 0.471344	train loss: 0.290816
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 79.46429]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.48284]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.26309]
+Epoch 25: 	validation acc: 79.46429	validation loss: 0.482842	train loss: 0.263089
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 80.35714]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.48828]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.32660]
+Epoch 26: 	validation acc: 80.35714	validation loss: 0.488277	train loss: 0.326605
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 81.25000]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.48788]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.26138]
+Epoch 27: 	validation acc: 81.25000	validation loss: 0.487876	train loss: 0.261383
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 78.57143]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.48364]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.25712]
+Epoch 28: 	validation acc: 78.57143	validation loss: 0.483637	train loss: 0.257119
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 78.57143]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.48129]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.23783]
+Epoch 29: 	validation acc: 78.57143	validation loss: 0.481293	train loss: 0.237832
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 79.46429]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.46839]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.24571]
+Epoch 30: 	validation acc: 79.46429	validation loss: 0.468388	train loss: 0.245705
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 80.35714]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.45793]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.24594]
+Epoch 31: 	validation acc: 80.35714	validation loss: 0.457930	train loss: 0.245940
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 79.46429]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.47179]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.24647]
+Epoch 32: 	validation acc: 79.46429	validation loss: 0.471793	train loss: 0.246471
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 79.46429]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.48552]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.24025]
+Epoch 33: 	validation acc: 79.46429	validation loss: 0.485524	train loss: 0.240251
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 80.35714]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.49844]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.25401]
+Epoch 34: 	validation acc: 80.35714	validation loss: 0.498438	train loss: 0.254008
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 80.35714]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.49721]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.24124]
+Epoch 35: 	validation acc: 80.35714	validation loss: 0.497208	train loss: 0.241244
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 80.35714]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.48442]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.21533]
+Epoch 36: 	validation acc: 80.35714	validation loss: 0.484420	train loss: 0.215325
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 78.57143]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.46928]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.20387]
+Epoch 37: 	validation acc: 78.57143	validation loss: 0.469275	train loss: 0.203867
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 79.46429]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.47895]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.19178]
+Epoch 38: 	validation acc: 79.46429	validation loss: 0.478948	train loss: 0.191776
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 80.35714]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.46832]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.20927]
+Epoch 39: 	validation acc: 80.35714	validation loss: 0.468319	train loss: 0.209265
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 77.67857]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.45886]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.22179]
+Epoch 40: 	validation acc: 77.67857	validation loss: 0.458859	train loss: 0.221793
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 80.35714]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.44524]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.22446]
+Epoch 41: 	validation acc: 80.35714	validation loss: 0.445243	train loss: 0.224459
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 80.35714]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.44859]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.26603]
+Epoch 42: 	validation acc: 80.35714	validation loss: 0.448591	train loss: 0.266031
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 80.35714]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.45906]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.21210]
+Epoch 43: 	validation acc: 80.35714	validation loss: 0.459058	train loss: 0.212101
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 79.46429]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.45481]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.18887]
+Epoch 44: 	validation acc: 79.46429	validation loss: 0.454815	train loss: 0.188866
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 79.46429]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.45903]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.22277]
+Epoch 45: 	validation acc: 79.46429	validation loss: 0.459032	train loss: 0.222766
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 79.46429]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.47635]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.17944]
+Epoch 46: 	validation acc: 79.46429	validation loss: 0.476347	train loss: 0.179441
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 80.35714]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.49750]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.17906]
+Epoch 47: 	validation acc: 80.35714	validation loss: 0.497501	train loss: 0.179057
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 81.25000]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.50910]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.19090]
+Epoch 48: 	validation acc: 81.25000	validation loss: 0.509102	train loss: 0.190904
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 81.25000]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.50313]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.19169]
+Epoch 49: 	validation acc: 81.25000	validation loss: 0.503128	train loss: 0.191688
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 81.25000]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.48980]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.19880]
+Epoch 50: 	validation acc: 81.25000	validation loss: 0.489803	train loss: 0.198796
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 82.14286]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.49637]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.16184]
+Epoch 51: 	validation acc: 82.14286	validation loss: 0.496372	train loss: 0.161838
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 83.03571]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.48083]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.17345]
+Epoch 52: 	validation acc: 83.03571	validation loss: 0.480826	train loss: 0.173448
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 83.03571]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.46920]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.16190]
+Epoch 53: 	validation acc: 83.03571	validation loss: 0.469201	train loss: 0.161898
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 82.14286]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.46936]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.15094]
+Epoch 54: 	validation acc: 82.14286	validation loss: 0.469356	train loss: 0.150944
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 81.25000]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.48142]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.16454]
+Epoch 55: 	validation acc: 81.25000	validation loss: 0.481416	train loss: 0.164535
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 80.35714]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.47478]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.18264]
+Epoch 56: 	validation acc: 80.35714	validation loss: 0.474782	train loss: 0.182638
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 81.25000]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.46793]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.15964]
+Epoch 57: 	validation acc: 81.25000	validation loss: 0.467934	train loss: 0.159635
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 83.03571]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.45117]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.17314]
+Epoch 58: 	validation acc: 83.03571	validation loss: 0.451172	train loss: 0.173137
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 82.14286]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.44871]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.16535]
+Epoch 59: 	validation acc: 82.14286	validation loss: 0.448709	train loss: 0.165353
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 79.46429]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.50292]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.23234]
+Epoch 60: 	validation acc: 79.46429	validation loss: 0.502923	train loss: 0.232344
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 80.35714]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.52037]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.15914]
+Epoch 61: 	validation acc: 80.35714	validation loss: 0.520374	train loss: 0.159141
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 81.25000]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.50205]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.18912]
+Epoch 62: 	validation acc: 81.25000	validation loss: 0.502054	train loss: 0.189119
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 80.35714]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.50467]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.16887]
+Epoch 63: 	validation acc: 80.35714	validation loss: 0.504673	train loss: 0.168866
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 81.25000]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.49018]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.15160]
+Epoch 64: 	validation acc: 81.25000	validation loss: 0.490182	train loss: 0.151596
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 81.25000]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.46818]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.16948]
+Epoch 65: 	validation acc: 81.25000	validation loss: 0.468177	train loss: 0.169480
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 82.14286]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.47410]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.12193]
+Epoch 66: 	validation acc: 82.14286	validation loss: 0.474101	train loss: 0.121928
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 79.46429]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.48045]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.14643]
+Epoch 67: 	validation acc: 79.46429	validation loss: 0.480452	train loss: 0.146426
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 79.46429]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.48671]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.13687]
+Epoch 68: 	validation acc: 79.46429	validation loss: 0.486711	train loss: 0.136873
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 80.35714]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.49816]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.15197]
+Epoch 69: 	validation acc: 80.35714	validation loss: 0.498163	train loss: 0.151971
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 79.46429]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.48213]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.14302]
+Epoch 70: 	validation acc: 79.46429	validation loss: 0.482131	train loss: 0.143022
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 78.57143]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.49485]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.14138]
+Epoch 71: 	validation acc: 78.57143	validation loss: 0.494850	train loss: 0.141377
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 79.46429]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.50514]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.19525]
+Epoch 72: 	validation acc: 79.46429	validation loss: 0.505138	train loss: 0.195247
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 80.35714]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.50433]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.18213]
+Epoch 73: 	validation acc: 80.35714	validation loss: 0.504334	train loss: 0.182129
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 81.25000]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.48394]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.12716]
+Epoch 74: 	validation acc: 81.25000	validation loss: 0.483935	train loss: 0.127157
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 78.57143]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.47568]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.15666]
+Epoch 75: 	validation acc: 78.57143	validation loss: 0.475678	train loss: 0.156657
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 78.57143]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.47801]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.13746]
+Epoch 76: 	validation acc: 78.57143	validation loss: 0.478012	train loss: 0.137456
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 79.46429]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.49992]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.14888]
+Epoch 77: 	validation acc: 79.46429	validation loss: 0.499921	train loss: 0.148883
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 79.46429]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.52541]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.15171]
+Epoch 78: 	validation acc: 79.46429	validation loss: 0.525410	train loss: 0.151710
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 79.46429]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.51534]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.11335]
+Epoch 79: 	validation acc: 79.46429	validation loss: 0.515338	train loss: 0.113346
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 81.25000]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.49201]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.12444]
+Epoch 80: 	validation acc: 81.25000	validation loss: 0.492008	train loss: 0.124444
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 81.25000]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.48077]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.13654]
+Epoch 81: 	validation acc: 81.25000	validation loss: 0.480774	train loss: 0.136539
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 78.57143]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.50904]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.15085]
+Epoch 82: 	validation acc: 78.57143	validation loss: 0.509038	train loss: 0.150853
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 80.35714]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.53133]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.14072]
+Epoch 83: 	validation acc: 80.35714	validation loss: 0.531325	train loss: 0.140719
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 80.35714]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.52458]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.14498]
+Epoch 84: 	validation acc: 80.35714	validation loss: 0.524583	train loss: 0.144977
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 82.14286]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.52302]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.12418]
+Epoch 85: 	validation acc: 82.14286	validation loss: 0.523022	train loss: 0.124185
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 81.25000]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.51023]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.09809]
+Epoch 86: 	validation acc: 81.25000	validation loss: 0.510228	train loss: 0.098094
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 79.46429]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.50358]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.12165]
+Epoch 87: 	validation acc: 79.46429	validation loss: 0.503576	train loss: 0.121655
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 79.46429]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.50627]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.13205]
+Epoch 88: 	validation acc: 79.46429	validation loss: 0.506271	train loss: 0.132048
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 80.35714]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.54007]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.11336]
+Epoch 89: 	validation acc: 80.35714	validation loss: 0.540073	train loss: 0.113362
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 80.35714]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.56442]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.15249]
+Epoch 90: 	validation acc: 80.35714	validation loss: 0.564420	train loss: 0.152489
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 80.35714]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.55944]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.11631]
+Epoch 91: 	validation acc: 80.35714	validation loss: 0.559438	train loss: 0.116315
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 77.67857]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.56109]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.13692]
+Epoch 92: 	validation acc: 77.67857	validation loss: 0.561088	train loss: 0.136917
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 79.46429]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.54532]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.12113]
+Epoch 93: 	validation acc: 79.46429	validation loss: 0.545325	train loss: 0.121127
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 79.46429]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.55525]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.13566]
+Epoch 94: 	validation acc: 79.46429	validation loss: 0.555251	train loss: 0.135663
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 79.46429]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.52550]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.11515]
+Epoch 95: 	validation acc: 79.46429	validation loss: 0.525498	train loss: 0.115150
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 79.46429]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.51916]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.14745]
+Epoch 96: 	validation acc: 79.46429	validation loss: 0.519161	train loss: 0.147451
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 78.57143]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.53642]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.12238]
+Epoch 97: 	validation acc: 78.57143	validation loss: 0.536418	train loss: 0.122383
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 78.57143]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.54507]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.10226]
+Epoch 98: 	validation acc: 78.57143	validation loss: 0.545067	train loss: 0.102257
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 80.35714]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.54932]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.14379]
+Epoch 99: 	validation acc: 80.35714	validation loss: 0.549317	train loss: 0.143795
+Validation Accuracy: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 80.35714]
+validation loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.53812]
+train loss: [1 : nan] [2 : nan] [3 : nan] [4 : nan] [5 : nan] [6 : nan] [7 : nan] [8 : nan] [9 : 0.11207]
+Epoch 100: 	validation acc: 80.35714	validation loss: 0.538118	train loss: 0.112074
